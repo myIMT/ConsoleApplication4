@@ -18,5 +18,8 @@
     <ClCompile Include="..\..\TestVSOpenCV03\TestVSOpenCV03\MyEdgeDetector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MyDrawLineOnImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

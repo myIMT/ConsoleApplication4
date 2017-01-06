@@ -149,6 +149,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\TestVSOpenCV03\TestVSOpenCV03\MyEdgeDetector.cpp" />
+    <ClCompile Include="BoundingBoxContours.cpp" />
+    <ClCompile Include="ConnectedComponents03.cpp" />
+    <ClCompile Include="contours.cpp" />
+    <ClCompile Include="findContours.cpp" />
     <ClCompile Include="MyDrawLineOnImage.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

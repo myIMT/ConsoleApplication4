@@ -25,8 +25,10 @@
 //
 //static void on_trackbar(int, void*)
 //{
+//	cout << "levels= " << levels << "\n";
 //	Mat cnt_img = Mat::zeros(w, w, CV_8UC3);
 //	int _levels = levels - 3;
+//	cout << "_levels= levels- 3= " << _levels << "\n";
 //	drawContours(cnt_img, contours, _levels <= 0 ? 3 : -1, Scalar(128, 255, 255),
 //		1, CV_AA, hierarchy, std::abs(_levels));
 //
@@ -40,7 +42,7 @@
 //int main(int argc, char**)
 //{
 //	//Mat img = Mat::zeros(w, w, CV_8UC1);
-//	Mat img = imread("20161215 02.33_368L.jpg", CV_LOAD_IMAGE_UNCHANGED);
+//	Mat img = imread("mask_i.jpg", CV_LOAD_IMAGE_UNCHANGED);
 //	if (argc > 1)
 //	{
 //		help();
@@ -82,11 +84,11 @@
 //	namedWindow("image", CV_WINDOW_AUTOSIZE);
 //	imshow("image", img);
 //
-//		Mat gray;
-//		cvtColor(img, gray, COLOR_BGR2GRAY);
+//		//Mat gray;
+//		//cvtColor(img, gray, COLOR_BGR2GRAY);
 //		// Convert image to binary
-//		Mat bw;
-//		threshold(gray, bw, 50, 255, CV_THRESH_BINARY | CV_THRESH_OTSU);
+//		Mat bw = img;
+//		//threshold(gray, bw, 50, 255, CV_THRESH_BINARY | CV_THRESH_OTSU);
 //
 //	//Extract the contours so that
 //	vector<vector<Point> > contours0;
@@ -94,7 +96,9 @@
 //
 //	contours.resize(contours0.size());
 //	for (size_t k = 0; k < contours0.size(); k++)
+//	{
 //		approxPolyDP(Mat(contours0[k]), contours[k], 3, true);
+//	}
 //
 //	namedWindow("contours", CV_WINDOW_AUTOSIZE);
 //	createTrackbar("levels+3", "contours", &levels, 7, on_trackbar);

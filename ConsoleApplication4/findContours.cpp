@@ -1,42 +1,55 @@
-//////#include "opencv2/core/core.hpp"
-//////#include "opencv2/highgui/highgui.hpp"
-//////#include "opencv2/imgproc/imgproc.hpp"
-//////#include "iostream"
-//////using namespace cv;
-//////using namespace std;
-//////int main()
-//////{
-//////	Mat image;
-//////	image = imread("20161215 02.33_368L.jpg", 1);
-//////	namedWindow("Display window", CV_WINDOW_AUTOSIZE);
-//////	imshow("Display window", image);
-//////	Mat gray;
-//////	cvtColor(image, gray, CV_BGR2GRAY);
-//////	Canny(gray, gray, 100, 200, 3);
-//////	/// Find contours   
-//////	vector<vector<Point> > contours;
-//////	vector<Vec4i> hierarchy;
-//////	RNG rng(12345);
-//////	findContours(gray, contours, hierarchy, CV_RETR_TREE, CV_CHAIN_APPROX_SIMPLE, Point(0, 0));
-//////	/// Draw contours
-//////	Mat drawing = Mat::zeros(gray.size(), CV_8UC3);
-//////	for (int i = 0; i< contours.size(); i++)
-//////	{
-//////		Scalar color = Scalar(rng.uniform(0, 255), rng.uniform(0, 255), rng.uniform(0, 255));
-//////		drawContours(drawing, contours, i, color, 2, 8, hierarchy, 0, Point());
-//////	}
-//////
-//////	imshow("Result window", drawing);
-//////	waitKey(0);
-//////	return 0;
-//////}
-////
-////
-////
-////
-////
-////
-////
+#include "opencv2/core/core.hpp"
+#include "opencv2/highgui/highgui.hpp"
+#include "opencv2/imgproc/imgproc.hpp"
+#include "iostream"
+using namespace cv;
+using namespace std;
+int main()
+{		
+	Mat image;
+	Mat gray;				
+	vector<vector<Point> > contours;
+	vector<Vec4i> hierarchy;
+	//namedWindow("Display window", CV_WINDOW_AUTOSIZE);
+		
+	for (int j = 1; j < 773; j++)
+	{
+
+		std::string s = std::to_string(j);
+		image = imread("mask_i_" + s + ".jpg", 1);
+		cout << "image file name= " << "mask_i_" + s + ".jpg" << "\n";
+
+		cvtColor(image, gray, CV_BGR2GRAY);
+		Canny(gray, gray, 100, 200, 3);
+		/// Find contours   
+
+		RNG rng(12345);
+		findContours(gray, contours, hierarchy, CV_RETR_TREE, CV_CHAIN_APPROX_SIMPLE, Point(0, 0));
+		/// Draw contours
+		Mat drawing = Mat::zeros(gray.size(), CV_8UC3);
+		for (int i = 0; i < contours.size(); i++)
+		{
+			Scalar color = Scalar(rng.uniform(0, 255), rng.uniform(0, 255), rng.uniform(0, 255));
+			drawContours(drawing, contours, i, color, 2, 8, hierarchy, 0, Point());
+		}
+
+		imwrite("contour_" + s + ".jpg", drawing);
+		//imshow("Result window", drawing);
+		//imshow("Display window", image);
+	}
+
+		
+
+	waitKey(0);
+	return 0;
+}
+
+
+
+
+
+
+
 //#include "opencv2/core/core.hpp"
 //#include "opencv2/highgui/highgui.hpp""
 //#include "opencv2/imgproc/imgproc.hpp"
@@ -72,7 +85,7 @@
 //		rectangle(src, bounding_rect, Scalar(0, 255, 0), 2, 8, 0);
 //		//namedWindow(name, CV_WINDOW_AUTOSIZE);
 //		imshow(name, src);
-//		imwrite(name + ".jpg", src);
+//		//imwrite(name + ".jpg", src);
 //		if (a>largest_area) {
 //			largest_area = a; cout << i << " area  " << a << endl;
 //			// Store the index of largest contour

@@ -50,7 +50,7 @@
 //	string filter;		
 //	Mat fltrImg;
 //	cv::Mat fltrGrayImg;
-//	for (int i = 0; i < 1; i++)
+//	for (int i = 0; i < 2; i++)
 //	{
 //		myConnectedComponents03file << "i= " << i << std::endl;
 //		if (i==0)
@@ -77,6 +77,7 @@
 //
 //		//imshow("source", srcImg);
 //		imshow(filter, fltrImg);
+//		imwrite(filter+".jpg", fltrImg);
 //		cv::cvtColor(fltrImg, fltrGrayImg, cv::COLOR_BGR2GRAY);
 //		cv::Mat FltrBinaryImg = threshval < 128 ? (fltrGrayImg < threshval) : (fltrGrayImg > threshval);
 //		cv::Mat FltrLabelImage;
@@ -89,7 +90,7 @@
 //		myConnectedComponents03file << "nFltrLabels= " << nFltrLabels << std::endl;
 //		myConnectedComponents03file << "size of original image= " << fltrGrayImg.size() << std::endl;
 //		myConnectedComponents03file << "size of FltrLabelImage= " << FltrLabelImage.size() << std::endl;
-//		imshow("FltrLabelImage2", FltrLabelImage2);
+//		//imshow("FltrLabelImage2", FltrLabelImage2);
 //		std::vector<cv::Vec3b> FltrColors(nFltrLabels);
 //		FltrColors[0] = cv::Vec3b(0, 0, 0);
 //		myConnectedComponents03file << "(Filter) Number of connected components = " << nFltrLabels << std::endl << std::endl;
@@ -112,7 +113,7 @@
 //			//strcat("mask_i_", std::to_string(i));
 //			//imshow("mask_i_" + s, mask_i);
 //			myConnectedComponents03file << "mask_i_" + s << "\n";
-//			imwrite("mask_i_"+s+".jpg", mask_i);
+//			//imwrite("mask_i_"+s+".jpg", mask_i);
 //			myConnectedComponents03file << "i= " << i << std::endl;
 //			myConnectedComponents03file << "FltrLabelImage.size= " << FltrLabelImage.size() << std::endl;
 //			myConnectedComponents03file << "mask_i= " << mask_i.size() << std::endl;
@@ -129,6 +130,8 @@
 //				FltrPixel = FltrColors[FltrLabel];
 //			}
 //		}
+//		//cv::imshow("Connected Components", FltrDst);
+//		//imwrite("Connected Components.jpg", FltrDst);
 //		//string filterDisplayName = filter + " Connected Components";
 //		////cv::imshow(filterDisplayName, FltrDst);
 //		//Mat1i labels;

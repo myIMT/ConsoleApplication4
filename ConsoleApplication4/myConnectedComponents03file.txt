@@ -9268,3 +9268,6393 @@ mask_i_772
 i= 0
 FltrLabelImage.size= [584 x 578]
 mask_i= [584 x 578]
+i= 1
+nFltrLabels= 533
+size of original image= [584 x 578]
+size of FltrLabelImage= [584 x 578]
+(Filter) Number of connected components = 533
+
+Component 1
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 0
+CC_STAT_WIDTH  = 28
+CC_STAT_HEIGHT = 33
+CC_STAT_AREA   = 309
+CENTER   = (10.8026,17.2362)
+
+mask_i_1
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 2
+CC_STAT_LEFT   = 23
+CC_STAT_TOP    = 0
+CC_STAT_WIDTH  = 33
+CC_STAT_HEIGHT = 47
+CC_STAT_AREA   = 446
+CENTER   = (38.4372,16.1771)
+
+mask_i_2
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 3
+CC_STAT_LEFT   = 82
+CC_STAT_TOP    = 0
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 19
+CENTER   = (83.6316,2.78947)
+
+mask_i_3
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 4
+CC_STAT_LEFT   = 120
+CC_STAT_TOP    = 0
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 5
+CENTER   = (120.8,0.6)
+
+mask_i_4
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 5
+CC_STAT_LEFT   = 164
+CC_STAT_TOP    = 0
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 23
+CENTER   = (166.304,1.6087)
+
+mask_i_5
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 6
+CC_STAT_LEFT   = 216
+CC_STAT_TOP    = 0
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 38
+CENTER   = (218.737,3.10526)
+
+mask_i_6
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 7
+CC_STAT_LEFT   = 60
+CC_STAT_TOP    = 3
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 25
+CENTER   = (62.04,5.4)
+
+mask_i_7
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 8
+CC_STAT_LEFT   = 100
+CC_STAT_TOP    = 3
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (100,3)
+
+mask_i_8
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 9
+CC_STAT_LEFT   = 121
+CC_STAT_TOP    = 3
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (121,3)
+
+mask_i_9
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 10
+CC_STAT_LEFT   = 140
+CC_STAT_TOP    = 3
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 46
+CENTER   = (141.804,9.17391)
+
+mask_i_10
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 11
+CC_STAT_LEFT   = 231
+CC_STAT_TOP    = 3
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 30
+CENTER   = (233.567,6.03333)
+
+mask_i_11
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 12
+CC_STAT_LEFT   = 565
+CC_STAT_TOP    = 3
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 26
+CC_STAT_AREA   = 193
+CENTER   = (573.746,12.886)
+
+mask_i_12
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 13
+CC_STAT_LEFT   = 124
+CC_STAT_TOP    = 5
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 100
+CENTER   = (128.12,12.76)
+
+mask_i_13
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 14
+CC_STAT_LEFT   = 176
+CC_STAT_TOP    = 5
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 26
+CENTER   = (178.154,7.73077)
+
+mask_i_14
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 15
+CC_STAT_LEFT   = 102
+CC_STAT_TOP    = 6
+CC_STAT_WIDTH  = 24
+CC_STAT_HEIGHT = 40
+CC_STAT_AREA   = 309
+CENTER   = (114.961,26.0291)
+
+mask_i_15
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 16
+CC_STAT_LEFT   = 278
+CC_STAT_TOP    = 6
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 8
+CENTER   = (278.875,6.875)
+
+mask_i_16
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 17
+CC_STAT_LEFT   = 263
+CC_STAT_TOP    = 8
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 14
+CENTER   = (264.857,9.92857)
+
+mask_i_17
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 18
+CC_STAT_LEFT   = 151
+CC_STAT_TOP    = 9
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 42
+CENTER   = (154.405,13.5714)
+
+mask_i_18
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 19
+CC_STAT_LEFT   = 68
+CC_STAT_TOP    = 12
+CC_STAT_WIDTH  = 42
+CC_STAT_HEIGHT = 65
+CC_STAT_AREA   = 759
+CENTER   = (91.834,43.0448)
+
+mask_i_19
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 20
+CC_STAT_LEFT   = 315
+CC_STAT_TOP    = 12
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (315,12.5)
+
+mask_i_20
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 21
+CC_STAT_LEFT   = 429
+CC_STAT_TOP    = 12
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 8
+CENTER   = (430.125,13.25)
+
+mask_i_21
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 22
+CC_STAT_LEFT   = 479
+CC_STAT_TOP    = 12
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (479.667,12.6667)
+
+mask_i_22
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 23
+CC_STAT_LEFT   = 64
+CC_STAT_TOP    = 14
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 26
+CENTER   = (64.9231,18.7308)
+
+mask_i_23
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 24
+CC_STAT_LEFT   = 169
+CC_STAT_TOP    = 14
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 30
+CENTER   = (171.567,17.6667)
+
+mask_i_24
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 25
+CC_STAT_LEFT   = 198
+CC_STAT_TOP    = 17
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 83
+CENTER   = (201.651,24.7711)
+
+mask_i_25
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 26
+CC_STAT_LEFT   = 211
+CC_STAT_TOP    = 17
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 26
+CENTER   = (213.769,19.4231)
+
+mask_i_26
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 27
+CC_STAT_LEFT   = 566
+CC_STAT_TOP    = 20
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 35
+CC_STAT_AREA   = 199
+CENTER   = (572.427,39.5377)
+
+mask_i_27
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 28
+CC_STAT_LEFT   = 230
+CC_STAT_TOP    = 23
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 93
+CENTER   = (234.419,30.0323)
+
+mask_i_28
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 29
+CC_STAT_LEFT   = 157
+CC_STAT_TOP    = 24
+CC_STAT_WIDTH  = 18
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 159
+CENTER   = (166.415,32)
+
+mask_i_29
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 30
+CC_STAT_LEFT   = 189
+CC_STAT_TOP    = 24
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 14
+CENTER   = (190.5,26.3571)
+
+mask_i_30
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 31
+CC_STAT_LEFT   = 367
+CC_STAT_TOP    = 24
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 13
+CENTER   = (368.538,25.8462)
+
+mask_i_31
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 32
+CC_STAT_LEFT   = 132
+CC_STAT_TOP    = 27
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 20
+CC_STAT_AREA   = 97
+CENTER   = (136.546,36.1031)
+
+mask_i_32
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 33
+CC_STAT_LEFT   = 147
+CC_STAT_TOP    = 27
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 92
+CENTER   = (152.783,35.9783)
+
+mask_i_33
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 34
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 28
+CC_STAT_WIDTH  = 33
+CC_STAT_HEIGHT = 55
+CC_STAT_AREA   = 330
+CENTER   = (18.5758,51.903)
+
+mask_i_34
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 35
+CC_STAT_LEFT   = 224
+CC_STAT_TOP    = 30
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (224,30)
+
+mask_i_35
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 36
+CC_STAT_LEFT   = 372
+CC_STAT_TOP    = 31
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 6
+CENTER   = (373,32.3333)
+
+mask_i_36
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 37
+CC_STAT_LEFT   = 459
+CC_STAT_TOP    = 31
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 4
+CENTER   = (459.25,32.25)
+
+mask_i_37
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 38
+CC_STAT_LEFT   = 180
+CC_STAT_TOP    = 32
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 22
+CC_STAT_AREA   = 93
+CENTER   = (183.763,43.1075)
+
+mask_i_38
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 39
+CC_STAT_LEFT   = 327
+CC_STAT_TOP    = 33
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (327.333,33.3333)
+
+mask_i_39
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 40
+CC_STAT_LEFT   = 51
+CC_STAT_TOP    = 34
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (51,34)
+
+mask_i_40
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 41
+CC_STAT_LEFT   = 29
+CC_STAT_TOP    = 44
+CC_STAT_WIDTH  = 18
+CC_STAT_HEIGHT = 37
+CC_STAT_AREA   = 171
+CENTER   = (38.9942,61.0292)
+
+mask_i_41
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 42
+CC_STAT_LEFT   = 200
+CC_STAT_TOP    = 44
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 27
+CENTER   = (202.963,46.3704)
+
+mask_i_42
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 43
+CC_STAT_LEFT   = 59
+CC_STAT_TOP    = 46
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 132
+CENTER   = (64.7803,54.6591)
+
+mask_i_43
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 44
+CC_STAT_LEFT   = 160
+CC_STAT_TOP    = 49
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 10
+CENTER   = (160.5,51.5)
+
+mask_i_44
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 45
+CC_STAT_LEFT   = 129
+CC_STAT_TOP    = 50
+CC_STAT_WIDTH  = 34
+CC_STAT_HEIGHT = 43
+CC_STAT_AREA   = 257
+CENTER   = (144.319,70.3035)
+
+mask_i_45
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 46
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 51
+CC_STAT_WIDTH  = 18
+CC_STAT_HEIGHT = 26
+CC_STAT_AREA   = 146
+CENTER   = (7.0274,63.0685)
+
+mask_i_46
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 47
+CC_STAT_LEFT   = 215
+CC_STAT_TOP    = 51
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 20
+CENTER   = (216.55,54.95)
+
+mask_i_47
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 48
+CC_STAT_LEFT   = 52
+CC_STAT_TOP    = 52
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 9
+CENTER   = (53,53)
+
+mask_i_48
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 49
+CC_STAT_LEFT   = 251
+CC_STAT_TOP    = 52
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 27
+CENTER   = (252.704,56.3333)
+
+mask_i_49
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 50
+CC_STAT_LEFT   = 112
+CC_STAT_TOP    = 53
+CC_STAT_WIDTH  = 27
+CC_STAT_HEIGHT = 34
+CC_STAT_AREA   = 265
+CENTER   = (123.434,68.3132)
+
+mask_i_50
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 51
+CC_STAT_LEFT   = 240
+CC_STAT_TOP    = 54
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 12
+CENTER   = (241.417,56.5833)
+
+mask_i_51
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 52
+CC_STAT_LEFT   = 276
+CC_STAT_TOP    = 56
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 29
+CENTER   = (278.172,59.5172)
+
+mask_i_52
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 53
+CC_STAT_LEFT   = 195
+CC_STAT_TOP    = 57
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 5
+CENTER   = (195.8,57.6)
+
+mask_i_53
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 54
+CC_STAT_LEFT   = 262
+CC_STAT_TOP    = 57
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 26
+CENTER   = (265.077,59.1154)
+
+mask_i_54
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 55
+CC_STAT_LEFT   = 290
+CC_STAT_TOP    = 57
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 27
+CENTER   = (291.333,60.8889)
+
+mask_i_55
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 56
+CC_STAT_LEFT   = 572
+CC_STAT_TOP    = 57
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 33
+CC_STAT_AREA   = 162
+CENTER   = (577.154,71.9938)
+
+mask_i_56
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 57
+CC_STAT_LEFT   = 150
+CC_STAT_TOP    = 58
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 7
+CENTER   = (151.143,59.8571)
+
+mask_i_57
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 58
+CC_STAT_LEFT   = 204
+CC_STAT_TOP    = 59
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 24
+CENTER   = (206.292,62.9167)
+
+mask_i_58
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 59
+CC_STAT_LEFT   = 349
+CC_STAT_TOP    = 60
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 16
+CENTER   = (350.125,62.25)
+
+mask_i_59
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 60
+CC_STAT_LEFT   = 51
+CC_STAT_TOP    = 62
+CC_STAT_WIDTH  = 47
+CC_STAT_HEIGHT = 86
+CC_STAT_AREA   = 598
+CENTER   = (75.903,110.018)
+
+mask_i_60
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 61
+CC_STAT_LEFT   = 154
+CC_STAT_TOP    = 63
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 4
+CENTER   = (154.25,64)
+
+mask_i_61
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 62
+CC_STAT_LEFT   = 569
+CC_STAT_TOP    = 64
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 3
+CENTER   = (570,64)
+
+mask_i_62
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 63
+CC_STAT_LEFT   = 259
+CC_STAT_TOP    = 66
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (259,66.5)
+
+mask_i_63
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 64
+CC_STAT_LEFT   = 326
+CC_STAT_TOP    = 67
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (326.5,67)
+
+mask_i_64
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 65
+CC_STAT_LEFT   = 235
+CC_STAT_TOP    = 68
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 16
+CC_STAT_AREA   = 123
+CENTER   = (242.472,75.6829)
+
+mask_i_65
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 66
+CC_STAT_LEFT   = 180
+CC_STAT_TOP    = 69
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (180.5,69)
+
+mask_i_66
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 67
+CC_STAT_LEFT   = 261
+CC_STAT_TOP    = 69
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (261,69)
+
+mask_i_67
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 68
+CC_STAT_LEFT   = 81
+CC_STAT_TOP    = 70
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 43
+CENTER   = (84.9302,74)
+
+mask_i_68
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 69
+CC_STAT_LEFT   = 163
+CC_STAT_TOP    = 70
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 14
+CENTER   = (164.786,72.2143)
+
+mask_i_69
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 70
+CC_STAT_LEFT   = 390
+CC_STAT_TOP    = 70
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 25
+CENTER   = (391.48,73.36)
+
+mask_i_70
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 71
+CC_STAT_LEFT   = 194
+CC_STAT_TOP    = 71
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 45
+CENTER   = (197.356,78.1556)
+
+mask_i_71
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 72
+CC_STAT_LEFT   = 207
+CC_STAT_TOP    = 71
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 30
+CENTER   = (209,75.5)
+
+mask_i_72
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 73
+CC_STAT_LEFT   = 280
+CC_STAT_TOP    = 76
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 20
+CENTER   = (281.6,78.8)
+
+mask_i_73
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 74
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 77
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 28
+CENTER   = (2.25,80.5)
+
+mask_i_74
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 75
+CC_STAT_LEFT   = 176
+CC_STAT_TOP    = 77
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 37
+CENTER   = (178.27,81.7838)
+
+mask_i_75
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 76
+CC_STAT_LEFT   = 221
+CC_STAT_TOP    = 77
+CC_STAT_WIDTH  = 12
+CC_STAT_HEIGHT = 20
+CC_STAT_AREA   = 112
+CENTER   = (225.973,86)
+
+mask_i_76
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 77
+CC_STAT_LEFT   = 345
+CC_STAT_TOP    = 78
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 15
+CENTER   = (345.933,80.6)
+
+mask_i_77
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 78
+CC_STAT_LEFT   = 116
+CC_STAT_TOP    = 79
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 33
+CENTER   = (119.545,82.8485)
+
+mask_i_78
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 79
+CC_STAT_LEFT   = 31
+CC_STAT_TOP    = 81
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 29
+CC_STAT_AREA   = 122
+CENTER   = (36.4262,97.8197)
+
+mask_i_79
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 80
+CC_STAT_LEFT   = 77
+CC_STAT_TOP    = 81
+CC_STAT_WIDTH  = 26
+CC_STAT_HEIGHT = 32
+CC_STAT_AREA   = 250
+CENTER   = (89.024,96.92)
+
+mask_i_80
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 81
+CC_STAT_LEFT   = 46
+CC_STAT_TOP    = 83
+CC_STAT_WIDTH  = 29
+CC_STAT_HEIGHT = 72
+CC_STAT_AREA   = 557
+CENTER   = (58.2513,121.93)
+
+mask_i_81
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 82
+CC_STAT_LEFT   = 99
+CC_STAT_TOP    = 84
+CC_STAT_WIDTH  = 21
+CC_STAT_HEIGHT = 41
+CC_STAT_AREA   = 216
+CENTER   = (109.44,101.213)
+
+mask_i_82
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 83
+CC_STAT_LEFT   = 565
+CC_STAT_TOP    = 84
+CC_STAT_WIDTH  = 18
+CC_STAT_HEIGHT = 80
+CC_STAT_AREA   = 549
+CENTER   = (572.506,119.481)
+
+mask_i_83
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 84
+CC_STAT_LEFT   = 12
+CC_STAT_TOP    = 86
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (12,86.5)
+
+mask_i_84
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 85
+CC_STAT_LEFT   = 300
+CC_STAT_TOP    = 86
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 7
+CENTER   = (300.571,87.2857)
+
+mask_i_85
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 86
+CC_STAT_LEFT   = 258
+CC_STAT_TOP    = 87
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 32
+CENTER   = (260.375,90.1875)
+
+mask_i_86
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 87
+CC_STAT_LEFT   = 582
+CC_STAT_TOP    = 87
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (582.5,87)
+
+mask_i_87
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 88
+CC_STAT_LEFT   = 142
+CC_STAT_TOP    = 89
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 28
+CC_STAT_AREA   = 151
+CENTER   = (148.563,102.139)
+
+mask_i_88
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 89
+CC_STAT_LEFT   = 582
+CC_STAT_TOP    = 89
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 5
+CENTER   = (582.4,90)
+
+mask_i_89
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 90
+CC_STAT_LEFT   = 170
+CC_STAT_TOP    = 91
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 6
+CENTER   = (170.333,92.5)
+
+mask_i_90
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 91
+CC_STAT_LEFT   = 353
+CC_STAT_TOP    = 92
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 18
+CENTER   = (354.833,94.6111)
+
+mask_i_91
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 92
+CC_STAT_LEFT   = 211
+CC_STAT_TOP    = 93
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 5
+CENTER   = (211.6,93.8)
+
+mask_i_92
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 93
+CC_STAT_LEFT   = 335
+CC_STAT_TOP    = 93
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 50
+CENTER   = (337.4,99.48)
+
+mask_i_93
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 94
+CC_STAT_LEFT   = 119
+CC_STAT_TOP    = 94
+CC_STAT_WIDTH  = 24
+CC_STAT_HEIGHT = 29
+CC_STAT_AREA   = 283
+CENTER   = (130.717,108.562)
+
+mask_i_94
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 95
+CC_STAT_LEFT   = 321
+CC_STAT_TOP    = 94
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 23
+CENTER   = (323.696,97.0435)
+
+mask_i_95
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 96
+CC_STAT_LEFT   = 7
+CC_STAT_TOP    = 96
+CC_STAT_WIDTH  = 50
+CC_STAT_HEIGHT = 90
+CC_STAT_AREA   = 682
+CENTER   = (33.6012,132.672)
+
+mask_i_96
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 97
+CC_STAT_LEFT   = 192
+CC_STAT_TOP    = 96
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (192.5,96)
+
+mask_i_97
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 98
+CC_STAT_LEFT   = 427
+CC_STAT_TOP    = 96
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 38
+CENTER   = (429.605,100)
+
+mask_i_98
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 99
+CC_STAT_LEFT   = 253
+CC_STAT_TOP    = 99
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 11
+CENTER   = (254.182,101.455)
+
+mask_i_99
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 100
+CC_STAT_LEFT   = 272
+CC_STAT_TOP    = 100
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 13
+CENTER   = (274.231,101.846)
+
+mask_i_100
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 101
+CC_STAT_LEFT   = 203
+CC_STAT_TOP    = 101
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 55
+CENTER   = (207.182,105.673)
+
+mask_i_101
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 102
+CC_STAT_LEFT   = 279
+CC_STAT_TOP    = 105
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (279.333,105.667)
+
+mask_i_102
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 103
+CC_STAT_LEFT   = 179
+CC_STAT_TOP    = 106
+CC_STAT_WIDTH  = 24
+CC_STAT_HEIGHT = 26
+CC_STAT_AREA   = 147
+CENTER   = (190.041,118.095)
+
+mask_i_103
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 104
+CC_STAT_LEFT   = 317
+CC_STAT_TOP    = 107
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 28
+CENTER   = (320.286,111.571)
+
+mask_i_104
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 105
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 108
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 50
+CENTER   = (3.14,116.48)
+
+mask_i_105
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 106
+CC_STAT_LEFT   = 259
+CC_STAT_TOP    = 108
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (259.5,108)
+
+mask_i_106
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 107
+CC_STAT_LEFT   = 221
+CC_STAT_TOP    = 113
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 7
+CENTER   = (222,114)
+
+mask_i_107
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 108
+CC_STAT_LEFT   = 96
+CC_STAT_TOP    = 114
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 72
+CENTER   = (99.5139,122.958)
+
+mask_i_108
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 109
+CC_STAT_LEFT   = 171
+CC_STAT_TOP    = 114
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 120
+CENTER   = (177.075,125.417)
+
+mask_i_109
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 110
+CC_STAT_LEFT   = 303
+CC_STAT_TOP    = 121
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 4
+CENTER   = (303,122.5)
+
+mask_i_110
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 111
+CC_STAT_LEFT   = 152
+CC_STAT_TOP    = 122
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 29
+CENTER   = (153.828,125.31)
+
+mask_i_111
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 112
+CC_STAT_LEFT   = 163
+CC_STAT_TOP    = 123
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 17
+CENTER   = (164.706,125.941)
+
+mask_i_112
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 113
+CC_STAT_LEFT   = 13
+CC_STAT_TOP    = 129
+CC_STAT_WIDTH  = 31
+CC_STAT_HEIGHT = 48
+CC_STAT_AREA   = 307
+CENTER   = (28.7687,151.195)
+
+mask_i_113
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 114
+CC_STAT_LEFT   = 241
+CC_STAT_TOP    = 133
+CC_STAT_WIDTH  = 46
+CC_STAT_HEIGHT = 60
+CC_STAT_AREA   = 1671
+CENTER   = (268.864,157.52)
+
+mask_i_114
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 115
+CC_STAT_LEFT   = 146
+CC_STAT_TOP    = 134
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 87
+CENTER   = (150.207,142.023)
+
+mask_i_115
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 116
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 135
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (0,135.5)
+
+mask_i_116
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 117
+CC_STAT_LEFT   = 133
+CC_STAT_TOP    = 136
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 45
+CENTER   = (137,140.289)
+
+mask_i_117
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 118
+CC_STAT_LEFT   = 576
+CC_STAT_TOP    = 137
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 44
+CC_STAT_AREA   = 220
+CENTER   = (580.168,158.768)
+
+mask_i_118
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 119
+CC_STAT_LEFT   = 188
+CC_STAT_TOP    = 138
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (188,138)
+
+mask_i_119
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 120
+CC_STAT_LEFT   = 5
+CC_STAT_TOP    = 139
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 22
+CC_STAT_AREA   = 84
+CENTER   = (9.66667,147.524)
+
+mask_i_120
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 121
+CC_STAT_LEFT   = 105
+CC_STAT_TOP    = 139
+CC_STAT_WIDTH  = 30
+CC_STAT_HEIGHT = 53
+CC_STAT_AREA   = 225
+CENTER   = (118.236,164.098)
+
+mask_i_121
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 122
+CC_STAT_LEFT   = 163
+CC_STAT_TOP    = 140
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 39
+CENTER   = (165.282,144.462)
+
+mask_i_122
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 123
+CC_STAT_LEFT   = 124
+CC_STAT_TOP    = 141
+CC_STAT_WIDTH  = 29
+CC_STAT_HEIGHT = 54
+CC_STAT_AREA   = 433
+CENTER   = (136.991,167.917)
+
+mask_i_123
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 124
+CC_STAT_LEFT   = 335
+CC_STAT_TOP    = 141
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 48
+CENTER   = (338.354,146.396)
+
+mask_i_124
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 125
+CC_STAT_LEFT   = 179
+CC_STAT_TOP    = 143
+CC_STAT_WIDTH  = 23
+CC_STAT_HEIGHT = 38
+CC_STAT_AREA   = 174
+CENTER   = (188.925,161.385)
+
+mask_i_125
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 126
+CC_STAT_LEFT   = 232
+CC_STAT_TOP    = 147
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 61
+CENTER   = (235.918,152.311)
+
+mask_i_126
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 127
+CC_STAT_LEFT   = 82
+CC_STAT_TOP    = 152
+CC_STAT_WIDTH  = 60
+CC_STAT_HEIGHT = 106
+CC_STAT_AREA   = 836
+CENTER   = (109.822,207.563)
+
+mask_i_127
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 128
+CC_STAT_LEFT   = 221
+CC_STAT_TOP    = 153
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 22
+CENTER   = (222.318,155.864)
+
+mask_i_128
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 129
+CC_STAT_LEFT   = 150
+CC_STAT_TOP    = 157
+CC_STAT_WIDTH  = 29
+CC_STAT_HEIGHT = 39
+CC_STAT_AREA   = 284
+CENTER   = (161.852,174.299)
+
+mask_i_129
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 130
+CC_STAT_LEFT   = 290
+CC_STAT_TOP    = 157
+CC_STAT_WIDTH  = 24
+CC_STAT_HEIGHT = 38
+CC_STAT_AREA   = 535
+CENTER   = (299.35,180.12)
+
+mask_i_130
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 131
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 158
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 162
+CENTER   = (7.73457,168.333)
+
+mask_i_131
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 132
+CC_STAT_LEFT   = 61
+CC_STAT_TOP    = 158
+CC_STAT_WIDTH  = 50
+CC_STAT_HEIGHT = 85
+CC_STAT_AREA   = 778
+CENTER   = (84.1401,199.121)
+
+mask_i_132
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 133
+CC_STAT_LEFT   = 203
+CC_STAT_TOP    = 158
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 30
+CC_STAT_AREA   = 185
+CENTER   = (209.795,174.238)
+
+mask_i_133
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 134
+CC_STAT_LEFT   = 170
+CC_STAT_TOP    = 162
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 34
+CENTER   = (172.971,166)
+
+mask_i_134
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 135
+CC_STAT_LEFT   = 102
+CC_STAT_TOP    = 164
+CC_STAT_WIDTH  = 23
+CC_STAT_HEIGHT = 34
+CC_STAT_AREA   = 236
+CENTER   = (111.657,181.445)
+
+mask_i_135
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 136
+CC_STAT_LEFT   = 239
+CC_STAT_TOP    = 167
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 11
+CENTER   = (240.364,168.545)
+
+mask_i_136
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 137
+CC_STAT_LEFT   = 24
+CC_STAT_TOP    = 168
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 28
+CC_STAT_AREA   = 167
+CENTER   = (29.509,183.796)
+
+mask_i_137
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 138
+CC_STAT_LEFT   = 568
+CC_STAT_TOP    = 170
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 12
+CENTER   = (569.25,171.917)
+
+mask_i_138
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 139
+CC_STAT_LEFT   = 224
+CC_STAT_TOP    = 174
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 18
+CENTER   = (225.722,176.556)
+
+mask_i_139
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 140
+CC_STAT_LEFT   = 184
+CC_STAT_TOP    = 177
+CC_STAT_WIDTH  = 12
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 118
+CENTER   = (188.585,186.568)
+
+mask_i_140
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 141
+CC_STAT_LEFT   = 569
+CC_STAT_TOP    = 184
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 47
+CC_STAT_AREA   = 380
+CENTER   = (577.063,209.092)
+
+mask_i_141
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 142
+CC_STAT_LEFT   = 12
+CC_STAT_TOP    = 190
+CC_STAT_WIDTH  = 20
+CC_STAT_HEIGHT = 20
+CC_STAT_AREA   = 154
+CENTER   = (21.5779,201.052)
+
+mask_i_142
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 143
+CC_STAT_LEFT   = 160
+CC_STAT_TOP    = 190
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 29
+CENTER   = (162.172,193.931)
+
+mask_i_143
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 144
+CC_STAT_LEFT   = 62
+CC_STAT_TOP    = 192
+CC_STAT_WIDTH  = 32
+CC_STAT_HEIGHT = 53
+CC_STAT_AREA   = 431
+CENTER   = (74.051,219.429)
+
+mask_i_144
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 145
+CC_STAT_LEFT   = 206
+CC_STAT_TOP    = 195
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 7
+CENTER   = (206.571,196.857)
+
+mask_i_145
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 146
+CC_STAT_LEFT   = 499
+CC_STAT_TOP    = 195
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 10
+CENTER   = (500,196.2)
+
+mask_i_146
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 147
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 196
+CC_STAT_WIDTH  = 23
+CC_STAT_HEIGHT = 41
+CC_STAT_AREA   = 248
+CENTER   = (8.20565,215.879)
+
+mask_i_147
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 148
+CC_STAT_LEFT   = 40
+CC_STAT_TOP    = 198
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 4
+CENTER   = (40.5,198.5)
+
+mask_i_148
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 149
+CC_STAT_LEFT   = 42
+CC_STAT_TOP    = 201
+CC_STAT_WIDTH  = 18
+CC_STAT_HEIGHT = 23
+CC_STAT_AREA   = 166
+CENTER   = (51.5361,210.361)
+
+mask_i_149
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 150
+CC_STAT_LEFT   = 123
+CC_STAT_TOP    = 203
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 60
+CENTER   = (125.733,210.15)
+
+mask_i_150
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 151
+CC_STAT_LEFT   = 138
+CC_STAT_TOP    = 205
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 42
+CENTER   = (140.714,208.643)
+
+mask_i_151
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 152
+CC_STAT_LEFT   = 174
+CC_STAT_TOP    = 205
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (174,205)
+
+mask_i_152
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 153
+CC_STAT_LEFT   = 197
+CC_STAT_TOP    = 206
+CC_STAT_WIDTH  = 12
+CC_STAT_HEIGHT = 29
+CC_STAT_AREA   = 136
+CENTER   = (202.507,219.581)
+
+mask_i_153
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 154
+CC_STAT_LEFT   = 415
+CC_STAT_TOP    = 207
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 19
+CENTER   = (416.737,210.632)
+
+mask_i_154
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 155
+CC_STAT_LEFT   = 158
+CC_STAT_TOP    = 210
+CC_STAT_WIDTH  = 19
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 192
+CENTER   = (166.62,221.448)
+
+mask_i_155
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 156
+CC_STAT_LEFT   = 185
+CC_STAT_TOP    = 210
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 80
+CENTER   = (188.525,219.375)
+
+mask_i_156
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 157
+CC_STAT_LEFT   = 364
+CC_STAT_TOP    = 213
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 11
+CENTER   = (365.545,214.364)
+
+mask_i_157
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 158
+CC_STAT_LEFT   = 40
+CC_STAT_TOP    = 214
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 46
+CC_STAT_AREA   = 210
+CENTER   = (46.6333,239.305)
+
+mask_i_158
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 159
+CC_STAT_LEFT   = 22
+CC_STAT_TOP    = 216
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 167
+CENTER   = (29.6168,226.731)
+
+mask_i_159
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 160
+CC_STAT_LEFT   = 215
+CC_STAT_TOP    = 218
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 17
+CENTER   = (216,223)
+
+mask_i_160
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 161
+CC_STAT_LEFT   = 135
+CC_STAT_TOP    = 219
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 75
+CENTER   = (139.8,225.28)
+
+mask_i_161
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 162
+CC_STAT_LEFT   = 399
+CC_STAT_TOP    = 219
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 8
+CENTER   = (399.5,220.5)
+
+mask_i_162
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 163
+CC_STAT_LEFT   = 151
+CC_STAT_TOP    = 220
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 47
+CENTER   = (153.17,224.66)
+
+mask_i_163
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 164
+CC_STAT_LEFT   = 381
+CC_STAT_TOP    = 223
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (381.5,223)
+
+mask_i_164
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 165
+CC_STAT_LEFT   = 340
+CC_STAT_TOP    = 225
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 10
+CENTER   = (340.5,227)
+
+mask_i_165
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 166
+CC_STAT_LEFT   = 431
+CC_STAT_TOP    = 229
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 6
+CENTER   = (431.5,230)
+
+mask_i_166
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 167
+CC_STAT_LEFT   = 182
+CC_STAT_TOP    = 231
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 60
+CENTER   = (185.35,238.533)
+
+mask_i_167
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 168
+CC_STAT_LEFT   = 371
+CC_STAT_TOP    = 231
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 38
+CENTER   = (374.368,235.658)
+
+mask_i_168
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 169
+CC_STAT_LEFT   = 578
+CC_STAT_TOP    = 231
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 57
+CENTER   = (581.053,237.316)
+
+mask_i_169
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 170
+CC_STAT_LEFT   = 291
+CC_STAT_TOP    = 234
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 21
+CENTER   = (292.571,237.381)
+
+mask_i_170
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 171
+CC_STAT_LEFT   = 147
+CC_STAT_TOP    = 236
+CC_STAT_WIDTH  = 17
+CC_STAT_HEIGHT = 28
+CC_STAT_AREA   = 215
+CENTER   = (154.037,250.312)
+
+mask_i_171
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 172
+CC_STAT_LEFT   = 3
+CC_STAT_TOP    = 237
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 66
+CENTER   = (7.09091,242.894)
+
+mask_i_172
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 173
+CC_STAT_LEFT   = 361
+CC_STAT_TOP    = 237
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 5
+CENTER   = (362.2,237.4)
+
+mask_i_173
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 174
+CC_STAT_LEFT   = 53
+CC_STAT_TOP    = 238
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 9
+CENTER   = (54,240.222)
+
+mask_i_174
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 175
+CC_STAT_LEFT   = 571
+CC_STAT_TOP    = 240
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 22
+CENTER   = (572.045,245.227)
+
+mask_i_175
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 176
+CC_STAT_LEFT   = 280
+CC_STAT_TOP    = 241
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 8
+CENTER   = (280.5,243)
+
+mask_i_176
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 177
+CC_STAT_LEFT   = 324
+CC_STAT_TOP    = 243
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 81
+CENTER   = (328.753,250.889)
+
+mask_i_177
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 178
+CC_STAT_LEFT   = 62
+CC_STAT_TOP    = 245
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 10
+CENTER   = (62.9,246.6)
+
+mask_i_178
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 179
+CC_STAT_LEFT   = 172
+CC_STAT_TOP    = 245
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 82
+CENTER   = (175.598,252.683)
+
+mask_i_179
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 180
+CC_STAT_LEFT   = 236
+CC_STAT_TOP    = 245
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 16
+CC_STAT_AREA   = 115
+CENTER   = (242.191,253.122)
+
+mask_i_180
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 181
+CC_STAT_LEFT   = 117
+CC_STAT_TOP    = 246
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 18
+CENTER   = (120,247.889)
+
+mask_i_181
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 182
+CC_STAT_LEFT   = 220
+CC_STAT_TOP    = 246
+CC_STAT_WIDTH  = 12
+CC_STAT_HEIGHT = 23
+CC_STAT_AREA   = 123
+CENTER   = (224.504,259.114)
+
+mask_i_182
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 183
+CC_STAT_LEFT   = 271
+CC_STAT_TOP    = 246
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 6
+CENTER   = (271.333,247.167)
+
+mask_i_183
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 184
+CC_STAT_LEFT   = 342
+CC_STAT_TOP    = 246
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 50
+CENTER   = (344.38,254.66)
+
+mask_i_184
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 185
+CC_STAT_LEFT   = 578
+CC_STAT_TOP    = 246
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 10
+CENTER   = (579,247.8)
+
+mask_i_185
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 186
+CC_STAT_LEFT   = 14
+CC_STAT_TOP    = 251
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 25
+CC_STAT_AREA   = 138
+CENTER   = (17.8768,262)
+
+mask_i_186
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 187
+CC_STAT_LEFT   = 33
+CC_STAT_TOP    = 251
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 18
+CENTER   = (34.3889,253.722)
+
+mask_i_187
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 188
+CC_STAT_LEFT   = 108
+CC_STAT_TOP    = 251
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 73
+CENTER   = (113.658,257.863)
+
+mask_i_188
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 189
+CC_STAT_LEFT   = 199
+CC_STAT_TOP    = 253
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 20
+CENTER   = (200.7,255.8)
+
+mask_i_189
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 190
+CC_STAT_LEFT   = 570
+CC_STAT_TOP    = 253
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 24
+CENTER   = (571.75,256.833)
+
+mask_i_190
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 191
+CC_STAT_LEFT   = 98
+CC_STAT_TOP    = 254
+CC_STAT_WIDTH  = 49
+CC_STAT_HEIGHT = 83
+CC_STAT_AREA   = 555
+CENTER   = (123.852,295.004)
+
+mask_i_191
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 192
+CC_STAT_LEFT   = 292
+CC_STAT_TOP    = 254
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 3
+CENTER   = (292,255)
+
+mask_i_192
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 193
+CC_STAT_LEFT   = 317
+CC_STAT_TOP    = 254
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (317,254.5)
+
+mask_i_193
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 194
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 255
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 5
+CENTER   = (0,257)
+
+mask_i_194
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 195
+CC_STAT_LEFT   = 61
+CC_STAT_TOP    = 255
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 28
+CENTER   = (63.3214,257.857)
+
+mask_i_195
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 196
+CC_STAT_LEFT   = 578
+CC_STAT_TOP    = 255
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 22
+CENTER   = (579.955,257.136)
+
+mask_i_196
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 197
+CC_STAT_LEFT   = 77
+CC_STAT_TOP    = 256
+CC_STAT_WIDTH  = 52
+CC_STAT_HEIGHT = 73
+CC_STAT_AREA   = 649
+CENTER   = (100.918,291.359)
+
+mask_i_197
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 198
+CC_STAT_LEFT   = 3
+CC_STAT_TOP    = 258
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 17
+CENTER   = (4.23529,261.059)
+
+mask_i_198
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 199
+CC_STAT_LEFT   = 294
+CC_STAT_TOP    = 258
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (294,258)
+
+mask_i_199
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 200
+CC_STAT_LEFT   = 413
+CC_STAT_TOP    = 258
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 10
+CENTER   = (413.7,260.6)
+
+mask_i_200
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 201
+CC_STAT_LEFT   = 280
+CC_STAT_TOP    = 261
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 59
+CENTER   = (282.915,267.763)
+
+mask_i_201
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 202
+CC_STAT_LEFT   = 374
+CC_STAT_TOP    = 261
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 37
+CC_STAT_AREA   = 192
+CENTER   = (378.75,279.089)
+
+mask_i_202
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 203
+CC_STAT_LEFT   = 579
+CC_STAT_TOP    = 262
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (579,262)
+
+mask_i_203
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 204
+CC_STAT_LEFT   = 360
+CC_STAT_TOP    = 263
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 32
+CENTER   = (362.563,267.188)
+
+mask_i_204
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 205
+CC_STAT_LEFT   = 132
+CC_STAT_TOP    = 264
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 5
+CENTER   = (133.2,264.4)
+
+mask_i_205
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 206
+CC_STAT_LEFT   = 210
+CC_STAT_TOP    = 264
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 53
+CENTER   = (212.792,270.528)
+
+mask_i_206
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 207
+CC_STAT_LEFT   = 349
+CC_STAT_TOP    = 264
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 7
+CENTER   = (349.714,265.571)
+
+mask_i_207
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 208
+CC_STAT_LEFT   = 170
+CC_STAT_TOP    = 266
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 30
+CC_STAT_AREA   = 194
+CENTER   = (177.948,277.32)
+
+mask_i_208
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 209
+CC_STAT_LEFT   = 36
+CC_STAT_TOP    = 267
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 61
+CENTER   = (38.918,273.393)
+
+mask_i_209
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 210
+CC_STAT_LEFT   = 192
+CC_STAT_TOP    = 267
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 45
+CENTER   = (193.889,272.511)
+
+mask_i_210
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 211
+CC_STAT_LEFT   = 270
+CC_STAT_TOP    = 267
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 39
+CC_STAT_AREA   = 187
+CENTER   = (278.599,288.016)
+
+mask_i_211
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 212
+CC_STAT_LEFT   = 56
+CC_STAT_TOP    = 268
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 16
+CC_STAT_AREA   = 112
+CENTER   = (61.6071,275.848)
+
+mask_i_212
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 213
+CC_STAT_LEFT   = 570
+CC_STAT_TOP    = 268
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 38
+CC_STAT_AREA   = 186
+CENTER   = (579.054,285.624)
+
+mask_i_213
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 214
+CC_STAT_LEFT   = 573
+CC_STAT_TOP    = 270
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 3
+CENTER   = (573,271)
+
+mask_i_214
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 215
+CC_STAT_LEFT   = 351
+CC_STAT_TOP    = 272
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 21
+CC_STAT_AREA   = 67
+CENTER   = (354.701,281.448)
+
+mask_i_215
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 216
+CC_STAT_LEFT   = 152
+CC_STAT_TOP    = 273
+CC_STAT_WIDTH  = 17
+CC_STAT_HEIGHT = 22
+CC_STAT_AREA   = 169
+CENTER   = (159.639,283.834)
+
+mask_i_216
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 217
+CC_STAT_LEFT   = 408
+CC_STAT_TOP    = 273
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 4
+CENTER   = (408.5,273.5)
+
+mask_i_217
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 218
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 274
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 21
+CC_STAT_AREA   = 92
+CENTER   = (6.07609,285)
+
+mask_i_218
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 219
+CC_STAT_LEFT   = 144
+CC_STAT_TOP    = 274
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 44
+CENTER   = (146.955,279.727)
+
+mask_i_219
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 220
+CC_STAT_LEFT   = 125
+CC_STAT_TOP    = 275
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 117
+CENTER   = (131.547,281.496)
+
+mask_i_220
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 221
+CC_STAT_LEFT   = 75
+CC_STAT_TOP    = 276
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 86
+CENTER   = (78.6628,285.384)
+
+mask_i_221
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 222
+CC_STAT_LEFT   = 258
+CC_STAT_TOP    = 276
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 34
+CC_STAT_AREA   = 207
+CENTER   = (263.135,294.184)
+
+mask_i_222
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 223
+CC_STAT_LEFT   = 240
+CC_STAT_TOP    = 278
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 26
+CC_STAT_AREA   = 142
+CENTER   = (244.88,289.373)
+
+mask_i_223
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 224
+CC_STAT_LEFT   = 333
+CC_STAT_TOP    = 279
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 22
+CC_STAT_AREA   = 116
+CENTER   = (339.828,288.905)
+
+mask_i_224
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 225
+CC_STAT_LEFT   = 396
+CC_STAT_TOP    = 279
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 46
+CENTER   = (397.587,286.174)
+
+mask_i_225
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 226
+CC_STAT_LEFT   = 451
+CC_STAT_TOP    = 279
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (451,279.5)
+
+mask_i_226
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 227
+CC_STAT_LEFT   = 192
+CC_STAT_TOP    = 281
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 23
+CENTER   = (193.304,284.435)
+
+mask_i_227
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 228
+CC_STAT_LEFT   = 302
+CC_STAT_TOP    = 281
+CC_STAT_WIDTH  = 17
+CC_STAT_HEIGHT = 39
+CC_STAT_AREA   = 210
+CENTER   = (309.433,301.833)
+
+mask_i_228
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 229
+CC_STAT_LEFT   = 230
+CC_STAT_TOP    = 282
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 9
+CENTER   = (231.333,283.444)
+
+mask_i_229
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 230
+CC_STAT_LEFT   = 322
+CC_STAT_TOP    = 283
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 16
+CC_STAT_AREA   = 75
+CENTER   = (325.227,291.307)
+
+mask_i_230
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 231
+CC_STAT_LEFT   = 53
+CC_STAT_TOP    = 284
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 173
+CENTER   = (58.6185,296.41)
+
+mask_i_231
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 232
+CC_STAT_LEFT   = 205
+CC_STAT_TOP    = 284
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 8
+CENTER   = (205.625,286.375)
+
+mask_i_232
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 233
+CC_STAT_LEFT   = 42
+CC_STAT_TOP    = 287
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 19
+CENTER   = (44.3158,289.842)
+
+mask_i_233
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 234
+CC_STAT_LEFT   = 20
+CC_STAT_TOP    = 290
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 66
+CENTER   = (23.9545,295.379)
+
+mask_i_234
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 235
+CC_STAT_LEFT   = 218
+CC_STAT_TOP    = 291
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 11
+CENTER   = (219.091,292.727)
+
+mask_i_235
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 236
+CC_STAT_LEFT   = 145
+CC_STAT_TOP    = 293
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 25
+CENTER   = (147.04,295.76)
+
+mask_i_236
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 237
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 295
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 33
+CC_STAT_AREA   = 175
+CENTER   = (4.97143,310.503)
+
+mask_i_237
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 238
+CC_STAT_LEFT   = 428
+CC_STAT_TOP    = 296
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 35
+CENTER   = (429.743,300.886)
+
+mask_i_238
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 239
+CC_STAT_LEFT   = 36
+CC_STAT_TOP    = 297
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 12
+CENTER   = (37,299.5)
+
+mask_i_239
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 240
+CC_STAT_LEFT   = 74
+CC_STAT_TOP    = 297
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 31
+CC_STAT_AREA   = 176
+CENTER   = (79.8068,311.602)
+
+mask_i_240
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 241
+CC_STAT_LEFT   = 235
+CC_STAT_TOP    = 297
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 28
+CENTER   = (237.143,300.214)
+
+mask_i_241
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 242
+CC_STAT_LEFT   = 514
+CC_STAT_TOP    = 297
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 30
+CENTER   = (515.5,301)
+
+mask_i_242
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 243
+CC_STAT_LEFT   = 50
+CC_STAT_TOP    = 298
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (50.5,298)
+
+mask_i_243
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 244
+CC_STAT_LEFT   = 190
+CC_STAT_TOP    = 298
+CC_STAT_WIDTH  = 23
+CC_STAT_HEIGHT = 26
+CC_STAT_AREA   = 177
+CENTER   = (200.949,310.051)
+
+mask_i_244
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 245
+CC_STAT_LEFT   = 177
+CC_STAT_TOP    = 299
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 23
+CC_STAT_AREA   = 118
+CENTER   = (180.932,310.254)
+
+mask_i_245
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 246
+CC_STAT_LEFT   = 215
+CC_STAT_TOP    = 302
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 89
+CENTER   = (221.562,307.854)
+
+mask_i_246
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 247
+CC_STAT_LEFT   = 148
+CC_STAT_TOP    = 306
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 130
+CENTER   = (153.415,315.292)
+
+mask_i_247
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 248
+CC_STAT_LEFT   = 33
+CC_STAT_TOP    = 308
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (33.6667,308.667)
+
+mask_i_248
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 249
+CC_STAT_LEFT   = 24
+CC_STAT_TOP    = 309
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 10
+CENTER   = (24.8,311.3)
+
+mask_i_249
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 250
+CC_STAT_LEFT   = 290
+CC_STAT_TOP    = 309
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 51
+CENTER   = (294.176,313.961)
+
+mask_i_250
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 251
+CC_STAT_LEFT   = 412
+CC_STAT_TOP    = 309
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 15
+CENTER   = (413.733,310.8)
+
+mask_i_251
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 252
+CC_STAT_LEFT   = 465
+CC_STAT_TOP    = 309
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 8
+CENTER   = (465.5,310.5)
+
+mask_i_252
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 253
+CC_STAT_LEFT   = 88
+CC_STAT_TOP    = 310
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 137
+CENTER   = (94.708,319.343)
+
+mask_i_253
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 254
+CC_STAT_LEFT   = 578
+CC_STAT_TOP    = 310
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 31
+CENTER   = (580.677,313.935)
+
+mask_i_254
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 255
+CC_STAT_LEFT   = 476
+CC_STAT_TOP    = 311
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 4
+CENTER   = (476.5,311.5)
+
+mask_i_255
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 256
+CC_STAT_LEFT   = 569
+CC_STAT_TOP    = 312
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 61
+CC_STAT_AREA   = 377
+CENTER   = (574.931,349.538)
+
+mask_i_256
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 257
+CC_STAT_LEFT   = 56
+CC_STAT_TOP    = 313
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (56,313)
+
+mask_i_257
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 258
+CC_STAT_LEFT   = 387
+CC_STAT_TOP    = 313
+CC_STAT_WIDTH  = 12
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 86
+CENTER   = (391.884,321.837)
+
+mask_i_258
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 259
+CC_STAT_LEFT   = 35
+CC_STAT_TOP    = 316
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 49
+CENTER   = (36.5714,323.755)
+
+mask_i_259
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 260
+CC_STAT_LEFT   = 248
+CC_STAT_TOP    = 318
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 21
+CENTER   = (250.667,321.048)
+
+mask_i_260
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 261
+CC_STAT_LEFT   = 47
+CC_STAT_TOP    = 320
+CC_STAT_WIDTH  = 17
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 127
+CENTER   = (54.8425,332.402)
+
+mask_i_261
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 262
+CC_STAT_LEFT   = 192
+CC_STAT_TOP    = 321
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 49
+CENTER   = (194.469,325.694)
+
+mask_i_262
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 263
+CC_STAT_LEFT   = 407
+CC_STAT_TOP    = 321
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 9
+CENTER   = (408,323.667)
+
+mask_i_263
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 264
+CC_STAT_LEFT   = 18
+CC_STAT_TOP    = 322
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 78
+CENTER   = (22.5769,328.077)
+
+mask_i_264
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 265
+CC_STAT_LEFT   = 268
+CC_STAT_TOP    = 322
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 11
+CENTER   = (269.182,324.273)
+
+mask_i_265
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 266
+CC_STAT_LEFT   = 68
+CC_STAT_TOP    = 324
+CC_STAT_WIDTH  = 19
+CC_STAT_HEIGHT = 29
+CC_STAT_AREA   = 197
+CENTER   = (75.6954,338.629)
+
+mask_i_266
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 267
+CC_STAT_LEFT   = 579
+CC_STAT_TOP    = 324
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 23
+CC_STAT_AREA   = 59
+CENTER   = (580.831,332.864)
+
+mask_i_267
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 268
+CC_STAT_LEFT   = 373
+CC_STAT_TOP    = 325
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 22
+CC_STAT_AREA   = 92
+CENTER   = (378.326,336.609)
+
+mask_i_268
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 269
+CC_STAT_LEFT   = 223
+CC_STAT_TOP    = 327
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 4
+CENTER   = (223.5,327.5)
+
+mask_i_269
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 270
+CC_STAT_LEFT   = 255
+CC_STAT_TOP    = 327
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 5
+CENTER   = (255.8,327.6)
+
+mask_i_270
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 271
+CC_STAT_LEFT   = 235
+CC_STAT_TOP    = 328
+CC_STAT_WIDTH  = 53
+CC_STAT_HEIGHT = 96
+CC_STAT_AREA   = 648
+CENTER   = (259.14,376.361)
+
+mask_i_271
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 272
+CC_STAT_LEFT   = 273
+CC_STAT_TOP    = 329
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 119
+CENTER   = (278.815,337.437)
+
+mask_i_272
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 273
+CC_STAT_LEFT   = 314
+CC_STAT_TOP    = 332
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 24
+CENTER   = (315.5,335.708)
+
+mask_i_273
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 274
+CC_STAT_LEFT   = 157
+CC_STAT_TOP    = 333
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 3
+CENTER   = (157,334)
+
+mask_i_274
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 275
+CC_STAT_LEFT   = 209
+CC_STAT_TOP    = 333
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 16
+CC_STAT_AREA   = 95
+CENTER   = (213.579,340.232)
+
+mask_i_275
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 276
+CC_STAT_LEFT   = 344
+CC_STAT_TOP    = 333
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 7
+CENTER   = (344.714,334.571)
+
+mask_i_276
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 277
+CC_STAT_LEFT   = 400
+CC_STAT_TOP    = 334
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (400,334)
+
+mask_i_277
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 278
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 336
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (0,336)
+
+mask_i_278
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 279
+CC_STAT_LEFT   = 181
+CC_STAT_TOP    = 336
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 90
+CENTER   = (187.522,342.367)
+
+mask_i_279
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 280
+CC_STAT_LEFT   = 256
+CC_STAT_TOP    = 336
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 21
+CC_STAT_AREA   = 106
+CENTER   = (261.604,346)
+
+mask_i_280
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 281
+CC_STAT_LEFT   = 95
+CC_STAT_TOP    = 337
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 55
+CENTER   = (98.5636,341.655)
+
+mask_i_281
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 282
+CC_STAT_LEFT   = 110
+CC_STAT_TOP    = 337
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 20
+CC_STAT_AREA   = 106
+CENTER   = (115.509,345.594)
+
+mask_i_282
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 283
+CC_STAT_LEFT   = 297
+CC_STAT_TOP    = 337
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 39
+CENTER   = (299.769,341.282)
+
+mask_i_283
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 284
+CC_STAT_LEFT   = 21
+CC_STAT_TOP    = 339
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 14
+CENTER   = (22.5714,342.214)
+
+mask_i_284
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 285
+CC_STAT_LEFT   = 127
+CC_STAT_TOP    = 339
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 40
+CENTER   = (129.35,344.975)
+
+mask_i_285
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 286
+CC_STAT_LEFT   = 327
+CC_STAT_TOP    = 339
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 11
+CENTER   = (327.818,341.091)
+
+mask_i_286
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 287
+CC_STAT_LEFT   = 154
+CC_STAT_TOP    = 341
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 14
+CENTER   = (155.571,343.286)
+
+mask_i_287
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 288
+CC_STAT_LEFT   = 141
+CC_STAT_TOP    = 344
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 12
+CENTER   = (141.583,347)
+
+mask_i_288
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 289
+CC_STAT_LEFT   = 363
+CC_STAT_TOP    = 345
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 26
+CENTER   = (365.615,348.846)
+
+mask_i_289
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 290
+CC_STAT_LEFT   = 174
+CC_STAT_TOP    = 347
+CC_STAT_WIDTH  = 20
+CC_STAT_HEIGHT = 40
+CC_STAT_AREA   = 263
+CENTER   = (183.061,365.943)
+
+mask_i_290
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 291
+CC_STAT_LEFT   = 18
+CC_STAT_TOP    = 350
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 121
+CENTER   = (22.3471,359.959)
+
+mask_i_291
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 292
+CC_STAT_LEFT   = 51
+CC_STAT_TOP    = 350
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 46
+CENTER   = (53.3913,354.348)
+
+mask_i_292
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 293
+CC_STAT_LEFT   = 222
+CC_STAT_TOP    = 350
+CC_STAT_WIDTH  = 26
+CC_STAT_HEIGHT = 40
+CC_STAT_AREA   = 429
+CENTER   = (233.329,367.809)
+
+mask_i_293
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 294
+CC_STAT_LEFT   = 428
+CC_STAT_TOP    = 350
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 11
+CENTER   = (429.091,352.818)
+
+mask_i_294
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 295
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 351
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 114
+CENTER   = (4.14912,358.035)
+
+mask_i_295
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 296
+CC_STAT_LEFT   = 163
+CC_STAT_TOP    = 351
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 43
+CENTER   = (165.14,356.023)
+
+mask_i_296
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 297
+CC_STAT_LEFT   = 199
+CC_STAT_TOP    = 351
+CC_STAT_WIDTH  = 40
+CC_STAT_HEIGHT = 66
+CC_STAT_AREA   = 503
+CENTER   = (214.336,377.26)
+
+mask_i_297
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 298
+CC_STAT_LEFT   = 338
+CC_STAT_TOP    = 353
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 119
+CENTER   = (342.571,365.092)
+
+mask_i_298
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 299
+CC_STAT_LEFT   = 103
+CC_STAT_TOP    = 354
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (103.333,354.333)
+
+mask_i_299
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 300
+CC_STAT_LEFT   = 413
+CC_STAT_TOP    = 354
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 10
+CENTER   = (414,355.5)
+
+mask_i_300
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 301
+CC_STAT_LEFT   = 144
+CC_STAT_TOP    = 355
+CC_STAT_WIDTH  = 21
+CC_STAT_HEIGHT = 45
+CC_STAT_AREA   = 258
+CENTER   = (150.043,376.19)
+
+mask_i_301
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 302
+CC_STAT_LEFT   = 36
+CC_STAT_TOP    = 356
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 22
+CENTER   = (38.0455,358.727)
+
+mask_i_302
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 303
+CC_STAT_LEFT   = 93
+CC_STAT_TOP    = 357
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 169
+CENTER   = (101.278,367.343)
+
+mask_i_303
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 304
+CC_STAT_LEFT   = 300
+CC_STAT_TOP    = 357
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 90
+CENTER   = (306.689,364.022)
+
+mask_i_304
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 305
+CC_STAT_LEFT   = 157
+CC_STAT_TOP    = 358
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 8
+CENTER   = (158,359.75)
+
+mask_i_305
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 306
+CC_STAT_LEFT   = 357
+CC_STAT_TOP    = 358
+CC_STAT_WIDTH  = 22
+CC_STAT_HEIGHT = 39
+CC_STAT_AREA   = 184
+CENTER   = (366.065,374.136)
+
+mask_i_306
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 307
+CC_STAT_LEFT   = 120
+CC_STAT_TOP    = 359
+CC_STAT_WIDTH  = 19
+CC_STAT_HEIGHT = 21
+CC_STAT_AREA   = 165
+CENTER   = (129.988,367.855)
+
+mask_i_307
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 308
+CC_STAT_LEFT   = 271
+CC_STAT_TOP    = 360
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 36
+CC_STAT_AREA   = 204
+CENTER   = (279.348,377.613)
+
+mask_i_308
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 309
+CC_STAT_LEFT   = 170
+CC_STAT_TOP    = 363
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (170,363.5)
+
+mask_i_309
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 310
+CC_STAT_LEFT   = 292
+CC_STAT_TOP    = 363
+CC_STAT_WIDTH  = 18
+CC_STAT_HEIGHT = 35
+CC_STAT_AREA   = 154
+CENTER   = (298.662,379.76)
+
+mask_i_310
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 311
+CC_STAT_LEFT   = 323
+CC_STAT_TOP    = 363
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 52
+CENTER   = (325.462,368.615)
+
+mask_i_311
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 312
+CC_STAT_LEFT   = 112
+CC_STAT_TOP    = 366
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 28
+CC_STAT_AREA   = 177
+CENTER   = (118.068,380.299)
+
+mask_i_312
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 313
+CC_STAT_LEFT   = 79
+CC_STAT_TOP    = 368
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 109
+CENTER   = (84.8807,375.055)
+
+mask_i_313
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 314
+CC_STAT_LEFT   = 9
+CC_STAT_TOP    = 371
+CC_STAT_WIDTH  = 17
+CC_STAT_HEIGHT = 24
+CC_STAT_AREA   = 185
+CENTER   = (16.2865,381.768)
+
+mask_i_314
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 315
+CC_STAT_LEFT   = 164
+CC_STAT_TOP    = 371
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 104
+CENTER   = (167.673,380.567)
+
+mask_i_315
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 316
+CC_STAT_LEFT   = 414
+CC_STAT_TOP    = 372
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 68
+CENTER   = (417.309,379.132)
+
+mask_i_316
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 317
+CC_STAT_LEFT   = 34
+CC_STAT_TOP    = 373
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 53
+CENTER   = (36.5283,378.962)
+
+mask_i_317
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 318
+CC_STAT_LEFT   = 51
+CC_STAT_TOP    = 373
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 6
+CENTER   = (51.5,374.5)
+
+mask_i_318
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 319
+CC_STAT_LEFT   = 573
+CC_STAT_TOP    = 374
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (573,374)
+
+mask_i_319
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 320
+CC_STAT_LEFT   = 67
+CC_STAT_TOP    = 375
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 21
+CC_STAT_AREA   = 129
+CENTER   = (73.5349,384.922)
+
+mask_i_320
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 321
+CC_STAT_LEFT   = 400
+CC_STAT_TOP    = 377
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 19
+CENTER   = (402.632,381.105)
+
+mask_i_321
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 322
+CC_STAT_LEFT   = 568
+CC_STAT_TOP    = 377
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 57
+CC_STAT_AREA   = 541
+CENTER   = (575.774,401.335)
+
+mask_i_322
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 323
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 379
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 13
+CENTER   = (1.46154,381.077)
+
+mask_i_323
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 324
+CC_STAT_LEFT   = 57
+CC_STAT_TOP    = 381
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 25
+CC_STAT_AREA   = 139
+CENTER   = (60.6403,393.799)
+
+mask_i_324
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 325
+CC_STAT_LEFT   = 388
+CC_STAT_TOP    = 385
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 29
+CENTER   = (390.172,389.241)
+
+mask_i_325
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 326
+CC_STAT_LEFT   = 203
+CC_STAT_TOP    = 386
+CC_STAT_WIDTH  = 32
+CC_STAT_HEIGHT = 51
+CC_STAT_AREA   = 356
+CENTER   = (215.306,410.691)
+
+mask_i_326
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 327
+CC_STAT_LEFT   = 96
+CC_STAT_TOP    = 387
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 15
+CENTER   = (97.0667,389.333)
+
+mask_i_327
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 328
+CC_STAT_LEFT   = 325
+CC_STAT_TOP    = 389
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 21
+CENTER   = (327.286,392.095)
+
+mask_i_328
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 329
+CC_STAT_LEFT   = 44
+CC_STAT_TOP    = 390
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 54
+CENTER   = (47.7407,395.5)
+
+mask_i_329
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 330
+CC_STAT_LEFT   = 29
+CC_STAT_TOP    = 392
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 31
+CC_STAT_AREA   = 156
+CENTER   = (34.0577,407.468)
+
+mask_i_330
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 331
+CC_STAT_LEFT   = 135
+CC_STAT_TOP    = 393
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 25
+CENTER   = (137.08,396.36)
+
+mask_i_331
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 332
+CC_STAT_LEFT   = 345
+CC_STAT_TOP    = 394
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 14
+CENTER   = (345.643,397.714)
+
+mask_i_332
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 333
+CC_STAT_LEFT   = 113
+CC_STAT_TOP    = 396
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 27
+CENTER   = (115.148,400)
+
+mask_i_333
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 334
+CC_STAT_LEFT   = 189
+CC_STAT_TOP    = 396
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 54
+CENTER   = (192.167,401.407)
+
+mask_i_334
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 335
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 399
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 23
+CC_STAT_AREA   = 143
+CENTER   = (4.73427,409.741)
+
+mask_i_335
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 336
+CC_STAT_LEFT   = 436
+CC_STAT_TOP    = 400
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (436,400)
+
+mask_i_336
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 337
+CC_STAT_LEFT   = 170
+CC_STAT_TOP    = 401
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 10
+CENTER   = (170.9,402.9)
+
+mask_i_337
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 338
+CC_STAT_LEFT   = 90
+CC_STAT_TOP    = 403
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (90,403)
+
+mask_i_338
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 339
+CC_STAT_LEFT   = 98
+CC_STAT_TOP    = 404
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 82
+CENTER   = (102.561,411.817)
+
+mask_i_339
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 340
+CC_STAT_LEFT   = 438
+CC_STAT_TOP    = 406
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (438,406)
+
+mask_i_340
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 341
+CC_STAT_LEFT   = 135
+CC_STAT_TOP    = 408
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 16
+CC_STAT_AREA   = 90
+CENTER   = (139.967,415.478)
+
+mask_i_341
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 342
+CC_STAT_LEFT   = 384
+CC_STAT_TOP    = 408
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 40
+CENTER   = (388.1,413.325)
+
+mask_i_342
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 343
+CC_STAT_LEFT   = 164
+CC_STAT_TOP    = 409
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 39
+CENTER   = (165.872,413.718)
+
+mask_i_343
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 344
+CC_STAT_LEFT   = 256
+CC_STAT_TOP    = 409
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 12
+CENTER   = (256.917,411.083)
+
+mask_i_344
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 345
+CC_STAT_LEFT   = 86
+CC_STAT_TOP    = 411
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 22
+CENTER   = (87,414.5)
+
+mask_i_345
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 346
+CC_STAT_LEFT   = 178
+CC_STAT_TOP    = 411
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 10
+CENTER   = (178.8,413.3)
+
+mask_i_346
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 347
+CC_STAT_LEFT   = 360
+CC_STAT_TOP    = 411
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 14
+CENTER   = (361.643,412.857)
+
+mask_i_347
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 348
+CC_STAT_LEFT   = 19
+CC_STAT_TOP    = 414
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 41
+CENTER   = (21.0976,419.341)
+
+mask_i_348
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 349
+CC_STAT_LEFT   = 475
+CC_STAT_TOP    = 414
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 5
+CENTER   = (475.6,414.8)
+
+mask_i_349
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 350
+CC_STAT_LEFT   = 58
+CC_STAT_TOP    = 415
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 63
+CENTER   = (62.6032,421.429)
+
+mask_i_350
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 351
+CC_STAT_LEFT   = 123
+CC_STAT_TOP    = 417
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 67
+CENTER   = (127.328,422.448)
+
+mask_i_351
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 352
+CC_STAT_LEFT   = 309
+CC_STAT_TOP    = 417
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 49
+CENTER   = (313.224,422.816)
+
+mask_i_352
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 353
+CC_STAT_LEFT   = 192
+CC_STAT_TOP    = 418
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 26
+CENTER   = (193.385,422.385)
+
+mask_i_353
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 354
+CC_STAT_LEFT   = 349
+CC_STAT_TOP    = 419
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 42
+CENTER   = (352.024,424.381)
+
+mask_i_354
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 355
+CC_STAT_LEFT   = 153
+CC_STAT_TOP    = 420
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 23
+CC_STAT_AREA   = 99
+CENTER   = (160,430.707)
+
+mask_i_355
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 356
+CC_STAT_LEFT   = 77
+CC_STAT_TOP    = 423
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (77.5,423)
+
+mask_i_356
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 357
+CC_STAT_LEFT   = 241
+CC_STAT_TOP    = 425
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 91
+CENTER   = (245.703,431.736)
+
+mask_i_357
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 358
+CC_STAT_LEFT   = 106
+CC_STAT_TOP    = 427
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 47
+CENTER   = (110.128,431.83)
+
+mask_i_358
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 359
+CC_STAT_LEFT   = 45
+CC_STAT_TOP    = 428
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 19
+CENTER   = (47.1579,430.263)
+
+mask_i_359
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 360
+CC_STAT_LEFT   = 140
+CC_STAT_TOP    = 428
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 114
+CENTER   = (145.711,435.851)
+
+mask_i_360
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 361
+CC_STAT_LEFT   = 302
+CC_STAT_TOP    = 428
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 16
+CENTER   = (302.875,431.813)
+
+mask_i_361
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 362
+CC_STAT_LEFT   = 87
+CC_STAT_TOP    = 429
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 28
+CENTER   = (89.8214,434.571)
+
+mask_i_362
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 363
+CC_STAT_LEFT   = 327
+CC_STAT_TOP    = 430
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 25
+CC_STAT_AREA   = 110
+CENTER   = (334.436,442.245)
+
+mask_i_363
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 364
+CC_STAT_LEFT   = 419
+CC_STAT_TOP    = 430
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 31
+CC_STAT_AREA   = 106
+CENTER   = (421.802,446.311)
+
+mask_i_364
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 365
+CC_STAT_LEFT   = 578
+CC_STAT_TOP    = 430
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 25
+CENTER   = (580.32,432.04)
+
+mask_i_365
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 366
+CC_STAT_LEFT   = 205
+CC_STAT_TOP    = 431
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 67
+CENTER   = (209.836,437.149)
+
+mask_i_366
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 367
+CC_STAT_LEFT   = 27
+CC_STAT_TOP    = 432
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 9
+CENTER   = (28,433.778)
+
+mask_i_367
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 368
+CC_STAT_LEFT   = 280
+CC_STAT_TOP    = 432
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 53
+CENTER   = (282.849,438.943)
+
+mask_i_368
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 369
+CC_STAT_LEFT   = 358
+CC_STAT_TOP    = 433
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (358,433)
+
+mask_i_369
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 370
+CC_STAT_LEFT   = 435
+CC_STAT_TOP    = 433
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 26
+CC_STAT_AREA   = 102
+CENTER   = (439.775,444.961)
+
+mask_i_370
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 371
+CC_STAT_LEFT   = 125
+CC_STAT_TOP    = 435
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 22
+CC_STAT_AREA   = 135
+CENTER   = (130.148,445.341)
+
+mask_i_371
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 372
+CC_STAT_LEFT   = 262
+CC_STAT_TOP    = 435
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 72
+CENTER   = (265.278,442.306)
+
+mask_i_372
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 373
+CC_STAT_LEFT   = 389
+CC_STAT_TOP    = 435
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 22
+CC_STAT_AREA   = 107
+CENTER   = (394.075,444.813)
+
+mask_i_373
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 374
+CC_STAT_LEFT   = 174
+CC_STAT_TOP    = 436
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (174,436)
+
+mask_i_374
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 375
+CC_STAT_LEFT   = 8
+CC_STAT_TOP    = 437
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 56
+CENTER   = (10.6964,443.929)
+
+mask_i_375
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 376
+CC_STAT_LEFT   = 192
+CC_STAT_TOP    = 437
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 28
+CC_STAT_AREA   = 157
+CENTER   = (196.586,449.815)
+
+mask_i_376
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 377
+CC_STAT_LEFT   = 221
+CC_STAT_TOP    = 438
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 43
+CENTER   = (223.209,443.465)
+
+mask_i_377
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 378
+CC_STAT_LEFT   = 574
+CC_STAT_TOP    = 438
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 27
+CC_STAT_AREA   = 108
+CENTER   = (576.907,451.75)
+
+mask_i_378
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 379
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 441
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (0.333333,441.333)
+
+mask_i_379
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 380
+CC_STAT_LEFT   = 55
+CC_STAT_TOP    = 441
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 143
+CENTER   = (61.5315,449.72)
+
+mask_i_380
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 381
+CC_STAT_LEFT   = 77
+CC_STAT_TOP    = 441
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 40
+CENTER   = (79.5,446.575)
+
+mask_i_381
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 382
+CC_STAT_LEFT   = 100
+CC_STAT_TOP    = 441
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 36
+CENTER   = (102.694,444.5)
+
+mask_i_382
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 383
+CC_STAT_LEFT   = 313
+CC_STAT_TOP    = 444
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 22
+CC_STAT_AREA   = 149
+CENTER   = (319.04,454.631)
+
+mask_i_383
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 384
+CC_STAT_LEFT   = 24
+CC_STAT_TOP    = 445
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (24,445)
+
+mask_i_384
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 385
+CC_STAT_LEFT   = 174
+CC_STAT_TOP    = 446
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 53
+CENTER   = (178,450.509)
+
+mask_i_385
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 386
+CC_STAT_LEFT   = 25
+CC_STAT_TOP    = 447
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (25,447)
+
+mask_i_386
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 387
+CC_STAT_LEFT   = 161
+CC_STAT_TOP    = 447
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 27
+CENTER   = (163.481,450.074)
+
+mask_i_387
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 388
+CC_STAT_LEFT   = 301
+CC_STAT_TOP    = 448
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 30
+CC_STAT_AREA   = 150
+CENTER   = (304.633,463.993)
+
+mask_i_388
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 389
+CC_STAT_LEFT   = 40
+CC_STAT_TOP    = 449
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 44
+CENTER   = (43.3409,454.932)
+
+mask_i_389
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 390
+CC_STAT_LEFT   = 114
+CC_STAT_TOP    = 449
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 24
+CENTER   = (115.5,452)
+
+mask_i_390
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 391
+CC_STAT_LEFT   = 210
+CC_STAT_TOP    = 451
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (210,451)
+
+mask_i_391
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 392
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 452
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 54
+CENTER   = (1.94444,462.241)
+
+mask_i_392
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 393
+CC_STAT_LEFT   = 151
+CC_STAT_TOP    = 453
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 17
+CENTER   = (152.118,455.529)
+
+mask_i_393
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 394
+CC_STAT_LEFT   = 454
+CC_STAT_TOP    = 453
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 34
+CENTER   = (456.471,458.412)
+
+mask_i_394
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 395
+CC_STAT_LEFT   = 280
+CC_STAT_TOP    = 455
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 70
+CENTER   = (284.543,462.886)
+
+mask_i_395
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 396
+CC_STAT_LEFT   = 25
+CC_STAT_TOP    = 457
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 93
+CENTER   = (27.957,464.677)
+
+mask_i_396
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 397
+CC_STAT_LEFT   = 92
+CC_STAT_TOP    = 457
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (92,457)
+
+mask_i_397
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 398
+CC_STAT_LEFT   = 74
+CC_STAT_TOP    = 458
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 79
+CENTER   = (78.4051,465.342)
+
+mask_i_398
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 399
+CC_STAT_LEFT   = 259
+CC_STAT_TOP    = 458
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 79
+CENTER   = (263.278,464.835)
+
+mask_i_399
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 400
+CC_STAT_LEFT   = 102
+CC_STAT_TOP    = 459
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (102,459.5)
+
+mask_i_400
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 401
+CC_STAT_LEFT   = 223
+CC_STAT_TOP    = 459
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 19
+CENTER   = (224.579,461.789)
+
+mask_i_401
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 402
+CC_STAT_LEFT   = 566
+CC_STAT_TOP    = 459
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 20
+CC_STAT_AREA   = 53
+CENTER   = (567.887,468.377)
+
+mask_i_402
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 403
+CC_STAT_LEFT   = 348
+CC_STAT_TOP    = 461
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 15
+CENTER   = (350.4,463.467)
+
+mask_i_403
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 404
+CC_STAT_LEFT   = 51
+CC_STAT_TOP    = 462
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 60
+CENTER   = (55.3667,465.983)
+
+mask_i_404
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 405
+CC_STAT_LEFT   = 159
+CC_STAT_TOP    = 463
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 28
+CENTER   = (161.036,466.857)
+
+mask_i_405
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 406
+CC_STAT_LEFT   = 206
+CC_STAT_TOP    = 463
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 10
+CENTER   = (207,464.5)
+
+mask_i_406
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 407
+CC_STAT_LEFT   = 119
+CC_STAT_TOP    = 464
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 7
+CENTER   = (120,465.286)
+
+mask_i_407
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 408
+CC_STAT_LEFT   = 413
+CC_STAT_TOP    = 464
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 7
+CENTER   = (413.571,465.857)
+
+mask_i_408
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 409
+CC_STAT_LEFT   = 86
+CC_STAT_TOP    = 465
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 24
+CENTER   = (87.5417,468.25)
+
+mask_i_409
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 410
+CC_STAT_LEFT   = 107
+CC_STAT_TOP    = 465
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 8
+CENTER   = (108.125,465.875)
+
+mask_i_410
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 411
+CC_STAT_LEFT   = 185
+CC_STAT_TOP    = 468
+CC_STAT_WIDTH  = 14
+CC_STAT_HEIGHT = 21
+CC_STAT_AREA   = 111
+CENTER   = (191.144,479.234)
+
+mask_i_411
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 412
+CC_STAT_LEFT   = 243
+CC_STAT_TOP    = 468
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 62
+CENTER   = (247.274,473.032)
+
+mask_i_412
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 413
+CC_STAT_LEFT   = 40
+CC_STAT_TOP    = 469
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 32
+CENTER   = (42.5,472.781)
+
+mask_i_413
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 414
+CC_STAT_LEFT   = 375
+CC_STAT_TOP    = 469
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 43
+CENTER   = (379.837,475.605)
+
+mask_i_414
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 415
+CC_STAT_LEFT   = 488
+CC_STAT_TOP    = 470
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 9
+CENTER   = (488.556,472.333)
+
+mask_i_415
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 416
+CC_STAT_LEFT   = 97
+CC_STAT_TOP    = 471
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 20
+CENTER   = (98.75,473.15)
+
+mask_i_416
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 417
+CC_STAT_LEFT   = 395
+CC_STAT_TOP    = 471
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 19
+CENTER   = (396,475.263)
+
+mask_i_417
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 418
+CC_STAT_LEFT   = 68
+CC_STAT_TOP    = 474
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 29
+CC_STAT_AREA   = 144
+CENTER   = (71.7986,486.819)
+
+mask_i_418
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 419
+CC_STAT_LEFT   = 115
+CC_STAT_TOP    = 474
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 2
+CENTER   = (115.5,474)
+
+mask_i_419
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 420
+CC_STAT_LEFT   = 147
+CC_STAT_TOP    = 474
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 15
+CENTER   = (148.533,476.333)
+
+mask_i_420
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 421
+CC_STAT_LEFT   = 577
+CC_STAT_TOP    = 474
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (577.333,474.333)
+
+mask_i_421
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 422
+CC_STAT_LEFT   = 439
+CC_STAT_TOP    = 475
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 18
+CENTER   = (440.444,478.5)
+
+mask_i_422
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 423
+CC_STAT_LEFT   = 218
+CC_STAT_TOP    = 476
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 18
+CENTER   = (219.611,478.278)
+
+mask_i_423
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 424
+CC_STAT_LEFT   = 54
+CC_STAT_TOP    = 477
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 16
+CC_STAT_AREA   = 92
+CENTER   = (58.8261,483.696)
+
+mask_i_424
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 425
+CC_STAT_LEFT   = 16
+CC_STAT_TOP    = 479
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 76
+CENTER   = (18.7632,485.789)
+
+mask_i_425
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 426
+CC_STAT_LEFT   = 364
+CC_STAT_TOP    = 479
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 40
+CENTER   = (367.55,484.425)
+
+mask_i_426
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 427
+CC_STAT_LEFT   = 575
+CC_STAT_TOP    = 481
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 3
+CENTER   = (575,482)
+
+mask_i_427
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 428
+CC_STAT_LEFT   = 86
+CC_STAT_TOP    = 482
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 24
+CENTER   = (87,486.042)
+
+mask_i_428
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 429
+CC_STAT_LEFT   = 178
+CC_STAT_TOP    = 482
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 25
+CENTER   = (179.64,485.04)
+
+mask_i_429
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 430
+CC_STAT_LEFT   = 454
+CC_STAT_TOP    = 483
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 11
+CENTER   = (455.091,487.091)
+
+mask_i_430
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 431
+CC_STAT_LEFT   = 114
+CC_STAT_TOP    = 484
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 9
+CENTER   = (114.667,486.111)
+
+mask_i_431
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 432
+CC_STAT_LEFT   = 137
+CC_STAT_TOP    = 485
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 85
+CENTER   = (140.247,492.282)
+
+mask_i_432
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 433
+CC_STAT_LEFT   = 283
+CC_STAT_TOP    = 485
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 28
+CC_STAT_AREA   = 129
+CENTER   = (287.054,498.38)
+
+mask_i_433
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 434
+CC_STAT_LEFT   = 43
+CC_STAT_TOP    = 486
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 50
+CENTER   = (46.16,490.58)
+
+mask_i_434
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 435
+CC_STAT_LEFT   = 235
+CC_STAT_TOP    = 486
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 28
+CC_STAT_AREA   = 196
+CENTER   = (242.153,500.444)
+
+mask_i_435
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 436
+CC_STAT_LEFT   = 0
+CC_STAT_TOP    = 487
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 27
+CC_STAT_AREA   = 115
+CENTER   = (4.70435,499.383)
+
+mask_i_436
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 437
+CC_STAT_LEFT   = 99
+CC_STAT_TOP    = 489
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 26
+CENTER   = (100.731,492.538)
+
+mask_i_437
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 438
+CC_STAT_LEFT   = 122
+CC_STAT_TOP    = 489
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 82
+CENTER   = (125.573,496.122)
+
+mask_i_438
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 439
+CC_STAT_LEFT   = 353
+CC_STAT_TOP    = 489
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 20
+CC_STAT_AREA   = 83
+CENTER   = (357.916,499.422)
+
+mask_i_439
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 440
+CC_STAT_LEFT   = 423
+CC_STAT_TOP    = 489
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 21
+CENTER   = (425.19,493.333)
+
+mask_i_440
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 441
+CC_STAT_LEFT   = 151
+CC_STAT_TOP    = 490
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 20
+CC_STAT_AREA   = 83
+CENTER   = (153.241,499.181)
+
+mask_i_441
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 442
+CC_STAT_LEFT   = 223
+CC_STAT_TOP    = 490
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 68
+CENTER   = (226.25,498.147)
+
+mask_i_442
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 443
+CC_STAT_LEFT   = 307
+CC_STAT_TOP    = 490
+CC_STAT_WIDTH  = 21
+CC_STAT_HEIGHT = 46
+CC_STAT_AREA   = 321
+CENTER   = (316.95,510.935)
+
+mask_i_443
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 444
+CC_STAT_LEFT   = 164
+CC_STAT_TOP    = 491
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 36
+CENTER   = (166.25,495.111)
+
+mask_i_444
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 445
+CC_STAT_LEFT   = 573
+CC_STAT_TOP    = 492
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 29
+CENTER   = (574.931,497.207)
+
+mask_i_445
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 446
+CC_STAT_LEFT   = 473
+CC_STAT_TOP    = 493
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (473,493)
+
+mask_i_446
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 447
+CC_STAT_LEFT   = 31
+CC_STAT_TOP    = 494
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 40
+CENTER   = (34.4,497.6)
+
+mask_i_447
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 448
+CC_STAT_LEFT   = 207
+CC_STAT_TOP    = 496
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 70
+CENTER   = (211.671,503.129)
+
+mask_i_448
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 449
+CC_STAT_LEFT   = 377
+CC_STAT_TOP    = 496
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 12
+CENTER   = (378.25,499.75)
+
+mask_i_449
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 450
+CC_STAT_LEFT   = 566
+CC_STAT_TOP    = 498
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (566,498.5)
+
+mask_i_450
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 451
+CC_STAT_LEFT   = 87
+CC_STAT_TOP    = 500
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 55
+CENTER   = (90.8364,505.182)
+
+mask_i_451
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 452
+CC_STAT_LEFT   = 18
+CC_STAT_TOP    = 501
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (18,501.5)
+
+mask_i_452
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 453
+CC_STAT_LEFT   = 57
+CC_STAT_TOP    = 501
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 13
+CENTER   = (57.8462,503.154)
+
+mask_i_453
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 454
+CC_STAT_LEFT   = 109
+CC_STAT_TOP    = 504
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 56
+CENTER   = (112.911,508.321)
+
+mask_i_454
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 455
+CC_STAT_LEFT   = 198
+CC_STAT_TOP    = 505
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 5
+CENTER   = (198.2,506.6)
+
+mask_i_455
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 456
+CC_STAT_LEFT   = 67
+CC_STAT_TOP    = 506
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 13
+CENTER   = (68.1538,508)
+
+mask_i_456
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 457
+CC_STAT_LEFT   = 381
+CC_STAT_TOP    = 506
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (381,506)
+
+mask_i_457
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 458
+CC_STAT_LEFT   = 44
+CC_STAT_TOP    = 507
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 31
+CENTER   = (46.1613,513.355)
+
+mask_i_458
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 459
+CC_STAT_LEFT   = 410
+CC_STAT_TOP    = 507
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 25
+CENTER   = (413.44,513.88)
+
+mask_i_459
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 460
+CC_STAT_LEFT   = 573
+CC_STAT_TOP    = 507
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (573,507)
+
+mask_i_460
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 461
+CC_STAT_LEFT   = 57
+CC_STAT_TOP    = 509
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 11
+CENTER   = (57.6364,511)
+
+mask_i_461
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 462
+CC_STAT_LEFT   = 25
+CC_STAT_TOP    = 510
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 12
+CENTER   = (26.0833,511.917)
+
+mask_i_462
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 463
+CC_STAT_LEFT   = 178
+CC_STAT_TOP    = 510
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 8
+CENTER   = (178.625,511.625)
+
+mask_i_463
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 464
+CC_STAT_LEFT   = 264
+CC_STAT_TOP    = 510
+CC_STAT_WIDTH  = 16
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 135
+CENTER   = (271,518.956)
+
+mask_i_464
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 465
+CC_STAT_LEFT   = 297
+CC_STAT_TOP    = 512
+CC_STAT_WIDTH  = 12
+CC_STAT_HEIGHT = 27
+CC_STAT_AREA   = 117
+CENTER   = (301.991,524.624)
+
+mask_i_465
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 466
+CC_STAT_LEFT   = 469
+CC_STAT_TOP    = 512
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 75
+CENTER   = (472.867,520.307)
+
+mask_i_466
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 467
+CC_STAT_LEFT   = 572
+CC_STAT_TOP    = 514
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 51
+CENTER   = (574.039,521.706)
+
+mask_i_467
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 468
+CC_STAT_LEFT   = 101
+CC_STAT_TOP    = 517
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 58
+CENTER   = (106.431,522.776)
+
+mask_i_468
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 469
+CC_STAT_LEFT   = 189
+CC_STAT_TOP    = 517
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 26
+CENTER   = (191.692,520)
+
+mask_i_469
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 470
+CC_STAT_LEFT   = 158
+CC_STAT_TOP    = 518
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 92
+CENTER   = (162.87,524.75)
+
+mask_i_470
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 471
+CC_STAT_LEFT   = 335
+CC_STAT_TOP    = 518
+CC_STAT_WIDTH  = 33
+CC_STAT_HEIGHT = 60
+CC_STAT_AREA   = 294
+CENTER   = (349.459,548.323)
+
+mask_i_471
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 472
+CC_STAT_LEFT   = 138
+CC_STAT_TOP    = 520
+CC_STAT_WIDTH  = 13
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 56
+CENTER   = (143.339,527.411)
+
+mask_i_472
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 473
+CC_STAT_LEFT   = 351
+CC_STAT_TOP    = 520
+CC_STAT_WIDTH  = 17
+CC_STAT_HEIGHT = 21
+CC_STAT_AREA   = 75
+CENTER   = (359.653,529.76)
+
+mask_i_473
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 474
+CC_STAT_LEFT   = 81
+CC_STAT_TOP    = 521
+CC_STAT_WIDTH  = 11
+CC_STAT_HEIGHT = 19
+CC_STAT_AREA   = 114
+CENTER   = (85.9386,530.579)
+
+mask_i_474
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 475
+CC_STAT_LEFT   = 400
+CC_STAT_TOP    = 521
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 61
+CENTER   = (403.574,529.59)
+
+mask_i_475
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 476
+CC_STAT_LEFT   = 565
+CC_STAT_TOP    = 522
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (565,522)
+
+mask_i_476
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 477
+CC_STAT_LEFT   = 48
+CC_STAT_TOP    = 523
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 49
+CENTER   = (50.0816,528.122)
+
+mask_i_477
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 478
+CC_STAT_LEFT   = 176
+CC_STAT_TOP    = 524
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 6
+CENTER   = (176.5,525.5)
+
+mask_i_478
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 479
+CC_STAT_LEFT   = 419
+CC_STAT_TOP    = 524
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 27
+CC_STAT_AREA   = 98
+CENTER   = (422.184,538.184)
+
+mask_i_479
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 480
+CC_STAT_LEFT   = 3
+CC_STAT_TOP    = 525
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 48
+CENTER   = (4.20833,532.333)
+
+mask_i_480
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 481
+CC_STAT_LEFT   = 73
+CC_STAT_TOP    = 525
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 6
+CENTER   = (73.6667,526.167)
+
+mask_i_481
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 482
+CC_STAT_LEFT   = 564
+CC_STAT_TOP    = 526
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 13
+CENTER   = (565.154,529.077)
+
+mask_i_482
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 483
+CC_STAT_LEFT   = 260
+CC_STAT_TOP    = 528
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 4
+CENTER   = (261,528.5)
+
+mask_i_483
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 484
+CC_STAT_LEFT   = 384
+CC_STAT_TOP    = 529
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 13
+CC_STAT_AREA   = 52
+CENTER   = (387.808,535.558)
+
+mask_i_484
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 485
+CC_STAT_LEFT   = 114
+CC_STAT_TOP    = 531
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 134
+CENTER   = (121.022,537.776)
+
+mask_i_485
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 486
+CC_STAT_LEFT   = 238
+CC_STAT_TOP    = 531
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (238.667,531.333)
+
+mask_i_486
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 487
+CC_STAT_LEFT   = 437
+CC_STAT_TOP    = 531
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 18
+CC_STAT_AREA   = 63
+CENTER   = (440.937,540.349)
+
+mask_i_487
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 488
+CC_STAT_LEFT   = 171
+CC_STAT_TOP    = 536
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 27
+CENTER   = (172.556,539.259)
+
+mask_i_488
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 489
+CC_STAT_LEFT   = 68
+CC_STAT_TOP    = 537
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 48
+CENTER   = (70.5833,541.583)
+
+mask_i_489
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 490
+CC_STAT_LEFT   = 243
+CC_STAT_TOP    = 538
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (243,538)
+
+mask_i_490
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 491
+CC_STAT_LEFT   = 34
+CC_STAT_TOP    = 540
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 38
+CC_STAT_AREA   = 128
+CENTER   = (37.0781,558.68)
+
+mask_i_491
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 492
+CC_STAT_LEFT   = 226
+CC_STAT_TOP    = 540
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 25
+CENTER   = (227.92,542.56)
+
+mask_i_492
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 493
+CC_STAT_LEFT   = 317
+CC_STAT_TOP    = 540
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 46
+CENTER   = (320.043,545.391)
+
+mask_i_493
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 494
+CC_STAT_LEFT   = 503
+CC_STAT_TOP    = 540
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 51
+CENTER   = (505.882,548.49)
+
+mask_i_494
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 495
+CC_STAT_LEFT   = 137
+CC_STAT_TOP    = 541
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 30
+CENTER   = (138.8,544.867)
+
+mask_i_495
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 496
+CC_STAT_LEFT   = 201
+CC_STAT_TOP    = 543
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (201,543.5)
+
+mask_i_496
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 497
+CC_STAT_LEFT   = 278
+CC_STAT_TOP    = 543
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 6
+CC_STAT_AREA   = 14
+CENTER   = (279.643,545.357)
+
+mask_i_497
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 498
+CC_STAT_LEFT   = 162
+CC_STAT_TOP    = 545
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 13
+CENTER   = (164,546.538)
+
+mask_i_498
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 499
+CC_STAT_LEFT   = 95
+CC_STAT_TOP    = 546
+CC_STAT_WIDTH  = 15
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 118
+CENTER   = (101.805,553.712)
+
+mask_i_499
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 500
+CC_STAT_LEFT   = 201
+CC_STAT_TOP    = 546
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 17
+CC_STAT_AREA   = 51
+CENTER   = (203.235,554.804)
+
+mask_i_500
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 501
+CC_STAT_LEFT   = 213
+CC_STAT_TOP    = 548
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 42
+CENTER   = (215.024,553.119)
+
+mask_i_501
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 502
+CC_STAT_LEFT   = 81
+CC_STAT_TOP    = 549
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 20
+CENTER   = (82.35,551.95)
+
+mask_i_502
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 503
+CC_STAT_LEFT   = 303
+CC_STAT_TOP    = 549
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 20
+CENTER   = (304.95,553.3)
+
+mask_i_503
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 504
+CC_STAT_LEFT   = 473
+CC_STAT_TOP    = 551
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 16
+CENTER   = (474.625,554.438)
+
+mask_i_504
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 505
+CC_STAT_LEFT   = 185
+CC_STAT_TOP    = 552
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 14
+CC_STAT_AREA   = 61
+CENTER   = (188.508,558.508)
+
+mask_i_505
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 506
+CC_STAT_LEFT   = 573
+CC_STAT_TOP    = 552
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 11
+CENTER   = (573.909,554)
+
+mask_i_506
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 507
+CC_STAT_LEFT   = 582
+CC_STAT_TOP    = 553
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 19
+CENTER   = (582.474,557.737)
+
+mask_i_507
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 508
+CC_STAT_LEFT   = 121
+CC_STAT_TOP    = 554
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 6
+CENTER   = (122.333,555.333)
+
+mask_i_508
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 509
+CC_STAT_LEFT   = 85
+CC_STAT_TOP    = 557
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 8
+CC_STAT_AREA   = 43
+CENTER   = (88.4651,560.442)
+
+mask_i_509
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 510
+CC_STAT_LEFT   = 459
+CC_STAT_TOP    = 557
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 10
+CENTER   = (459.7,559)
+
+mask_i_510
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 511
+CC_STAT_LEFT   = 334
+CC_STAT_TOP    = 558
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (334.333,558.667)
+
+mask_i_511
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 512
+CC_STAT_LEFT   = 267
+CC_STAT_TOP    = 559
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (267,559)
+
+mask_i_512
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 513
+CC_STAT_LEFT   = 405
+CC_STAT_TOP    = 559
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 15
+CENTER   = (405.8,563.333)
+
+mask_i_513
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 514
+CC_STAT_LEFT   = 166
+CC_STAT_TOP    = 560
+CC_STAT_WIDTH  = 3
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 8
+CENTER   = (166.75,561.375)
+
+mask_i_514
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 515
+CC_STAT_LEFT   = 308
+CC_STAT_TOP    = 560
+CC_STAT_WIDTH  = 9
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 43
+CENTER   = (311.721,564.558)
+
+mask_i_515
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 516
+CC_STAT_LEFT   = 66
+CC_STAT_TOP    = 561
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 30
+CENTER   = (68.4,563.9)
+
+mask_i_516
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 517
+CC_STAT_LEFT   = 436
+CC_STAT_TOP    = 562
+CC_STAT_WIDTH  = 10
+CC_STAT_HEIGHT = 16
+CC_STAT_AREA   = 81
+CENTER   = (440.123,570.444)
+
+mask_i_517
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 518
+CC_STAT_LEFT   = 16
+CC_STAT_TOP    = 563
+CC_STAT_WIDTH  = 8
+CC_STAT_HEIGHT = 15
+CC_STAT_AREA   = 76
+CENTER   = (18.8158,571.289)
+
+mask_i_518
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 519
+CC_STAT_LEFT   = 419
+CC_STAT_TOP    = 563
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 5
+CENTER   = (419.4,564.2)
+
+mask_i_519
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 520
+CC_STAT_LEFT   = 136
+CC_STAT_TOP    = 565
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 28
+CENTER   = (139.107,568.179)
+
+mask_i_520
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 521
+CC_STAT_LEFT   = 258
+CC_STAT_TOP    = 565
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 28
+CENTER   = (259.607,569.643)
+
+mask_i_521
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 522
+CC_STAT_LEFT   = 238
+CC_STAT_TOP    = 566
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 12
+CC_STAT_AREA   = 46
+CENTER   = (240.587,572.565)
+
+mask_i_522
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 523
+CC_STAT_LEFT   = 341
+CC_STAT_TOP    = 567
+CC_STAT_WIDTH  = 7
+CC_STAT_HEIGHT = 11
+CC_STAT_AREA   = 35
+CENTER   = (344.114,572.743)
+
+mask_i_523
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 524
+CC_STAT_LEFT   = 582
+CC_STAT_TOP    = 567
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 4
+CC_STAT_AREA   = 8
+CENTER   = (582.5,568.5)
+
+mask_i_524
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 525
+CC_STAT_LEFT   = 326
+CC_STAT_TOP    = 568
+CC_STAT_WIDTH  = 5
+CC_STAT_HEIGHT = 10
+CC_STAT_AREA   = 30
+CENTER   = (327.767,573.4)
+
+mask_i_525
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 526
+CC_STAT_LEFT   = 380
+CC_STAT_TOP    = 568
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 7
+CC_STAT_AREA   = 18
+CENTER   = (382.667,571.056)
+
+mask_i_526
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 527
+CC_STAT_LEFT   = 118
+CC_STAT_TOP    = 569
+CC_STAT_WIDTH  = 6
+CC_STAT_HEIGHT = 9
+CC_STAT_AREA   = 34
+CENTER   = (120.029,573.735)
+
+mask_i_527
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 528
+CC_STAT_LEFT   = 100
+CC_STAT_TOP    = 570
+CC_STAT_WIDTH  = 2
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 3
+CENTER   = (100.333,570.333)
+
+mask_i_528
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 529
+CC_STAT_LEFT   = 111
+CC_STAT_TOP    = 570
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 1
+CC_STAT_AREA   = 1
+CENTER   = (111,570)
+
+mask_i_529
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 530
+CC_STAT_LEFT   = 4
+CC_STAT_TOP    = 573
+CC_STAT_WIDTH  = 4
+CC_STAT_HEIGHT = 5
+CC_STAT_AREA   = 17
+CENTER   = (5.29412,575.294)
+
+mask_i_530
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 531
+CC_STAT_LEFT   = 423
+CC_STAT_TOP    = 575
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 3
+CC_STAT_AREA   = 3
+CENTER   = (423,576)
+
+mask_i_531
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]
+Component 532
+CC_STAT_LEFT   = 160
+CC_STAT_TOP    = 576
+CC_STAT_WIDTH  = 1
+CC_STAT_HEIGHT = 2
+CC_STAT_AREA   = 2
+CENTER   = (160,576.5)
+
+mask_i_532
+i= 1
+FltrLabelImage.size= [584 x 578]
+mask_i= [584 x 578]

@@ -107,7 +107,7 @@ int CalcAngle(Mat src)
 	//![canny]
 
 	//Canny detector
-	Canny(detected_edges, detected_edges, lowThreshold, lowThreshold*ratio, kernel_size);
+	//Canny(detected_edges, detected_edges, lowThreshold, lowThreshold*ratio, kernel_size);
 	//![canny]
 	imshow("CalcAngle_ContourGrayCannyMatrixFile", detected_edges);
 	ofstream CalcAngle_ContourGrayCannyMatrixFile;
@@ -144,12 +144,12 @@ int CalcAngle(Mat src)
 	cout << "Angle depth= " << Angle.depth() << "\n";
 	cout << "detected_edges size= " << detected_edges.size() << "\n";
 	cout << "detected_edges depth= " << detected_edges.depth() << "\n";
-	//ofstream GradsAndAtansMatrixFile;
-	//		GradsAndAtansMatrixFile.open("GradsAndAtansMatrixFile.txt");
+	ofstream GradsAndAtansMatrixFile;
+			GradsAndAtansMatrixFile.open("GradsAndAtansMatrixFile.txt");
 	//for (size_t i = 0; i < detected_edges.rows; i++)
 	//{
-	//	//const float* xRow_i = grad_x.ptr<float>(i);
-	//	//const float* yRow_i = grad_y.ptr<float>(i);
+	////	//const float* xRow_i = grad_x.ptr<float>(i);
+	////	//const float* yRow_i = grad_y.ptr<float>(i);
 
 	//	for (size_t j = 0; j < detected_edges.cols; j++)
 	//	{	
@@ -316,19 +316,28 @@ int main()
 		std::string s = std::to_string(j);
 		//image = imread("mask_i_" + s + ".jpg", 1);
 		image = imread("connectedComponentImage01.jpg", 1);
+		//---------------------------------------
+		//is this gray or binary?
+		//cast to binary since original connectCJPG suppose to be binary
+
+		//use neighbourhopod of original image to calculate angle from binary
+		//walk through binary get equivalent neihbourhood form orignal and claculate Angle
+
+		//read image, filter (denoise), connectedComponent (binary), contouring (single pixel think contour = edge), walk along edge get neigh from orihinal and calculate angle, mag of edge point
+
 		imshow("mask_i Original Image", image);
 		//cout << "image file name= " << "mask_i_" + s + ".jpg" << "\n";
 		ofstream Mask_i_OriginalMatrixFile;
 		Mask_i_OriginalMatrixFile.open("Mask_i_OriginalMatrixFile.csv");
 		Mask_i_OriginalMatrixFile << image << "\n";
 		Mask_i_OriginalMatrixFile.close();
-
-		cvtColor(image, gray, CV_BGR2GRAY);
-		Canny(gray, gray, 100, 200, 3);
+		gray = image;
+		//cvtColor(image, gray, CV_BGR2GRAY);
+		//Canny(gray, gray, 100, 200, 3);
 		/// Find contours   
 
 		RNG rng(12345);
-		findContours(gray, contours, hierarchy, CV_RETR_EXTERNAL, CV_CHAIN_APPROX_SIMPLE, Point(0, 0));
+//		findContours(gray, contours, hierarchy, CV_RETR_EXTERNAL, CV_CHAIN_APPROX_NONE, Point(0, 0));
 		/// Draw contours
 		Mat drawing = Mat::zeros(gray.size(), CV_8UC3);
 		for (int i = 0; i < contours.size(); i++)

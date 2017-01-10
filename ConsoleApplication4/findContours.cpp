@@ -9,12 +9,13 @@
 #include <vector>
 #include <stdlib.h>
 #include <array>
+#include <math.h>
 
 //#include <opencv2/legacy/compat.hpp>
 
 using std::vector;
 
-
+#define _USE_MATH_DEFINES
 using namespace cv;
 using namespace std;
 
@@ -69,11 +70,11 @@ int CalcAngle(Mat src)
 	//src = imread(argv[1], IMREAD_COLOR); // Load an image
 	//src = imread("contour_1.jpg", CV_LOAD_IMAGE_UNCHANGED); //read the image data in the file "MyPic.JPG" and store it in 'img'
 															//IplImage* img = cvLoadImage("20161215 02.33_368L.jpg");
-	imshow("Original Image", src);
-	ofstream AngleContourMatrixFile;
-	AngleContourMatrixFile.open("AngleContourMatrixFile.csv");
-	AngleContourMatrixFile << src << "\n";
-	AngleContourMatrixFile.close();
+	imshow("CalcAngle Contour Image", src);
+	ofstream CalcAngle_ContourMatrixFile;
+	CalcAngle_ContourMatrixFile.open("CalcAngle_ContourMatrixFile.csv");
+	CalcAngle_ContourMatrixFile << src << "\n";
+	CalcAngle_ContourMatrixFile.close();
 
 	if (src.empty())
 	{
@@ -89,7 +90,11 @@ int CalcAngle(Mat src)
 	myEdgeDetectorFile << "src_gray size= " << src_gray.size() << "\n";
 	myEdgeDetectorFile << "\n";    myEdgeDetectorFile << "\n";
 	//grayHist = getHistogram(src_gray,"GrayScaleImageHist");
-	imshow("GrayScale Image", src_gray);
+	imshow("CalcAngle_ContourGrayMatrixFile Image", src_gray);
+	ofstream CalcAngle_ContourGrayMatrixFile;
+	CalcAngle_ContourGrayMatrixFile.open("CalcAngle_ContourGrayMatrixFile.csv");
+	CalcAngle_ContourGrayMatrixFile << src << "\n";
+	CalcAngle_ContourGrayMatrixFile.close();
 	//set the callback function for any mouse event
 	//setMouseCallback("GrayScale Image", CallBackFunc, NULL);
 	//![reduce_noise]
@@ -102,20 +107,23 @@ int CalcAngle(Mat src)
 	//![canny]
 
 	//Canny detector
-	//Canny(detected_edges, detected_edges, lowThreshold, lowThreshold*ratio, kernel_size);
+	Canny(detected_edges, detected_edges, lowThreshold, lowThreshold*ratio, kernel_size);
 	//![canny]
-	//imshow("Canny Image", detected_edges);
-
+	imshow("CalcAngle_ContourGrayCannyMatrixFile", detected_edges);
+	ofstream CalcAngle_ContourGrayCannyMatrixFile;
+	CalcAngle_ContourGrayCannyMatrixFile.open("CalcAngle_ContourGrayCannyMatrixFile.csv");
+	CalcAngle_ContourGrayCannyMatrixFile << detected_edges << "\n";
+	CalcAngle_ContourGrayCannyMatrixFile.close();
 	/// Gradient X
 	//Scharr( src_gray, grad_x, ddepth, 1, 0, scale, delta, BORDER_DEFAULT );
-	Sobel(src, grad_x, ddepth, 1, 0, 3, scale, delta, BORDER_DEFAULT);
+	Sobel(detected_edges, grad_x, ddepth, 1, 0, 3, scale, delta, BORDER_DEFAULT);
 	ofstream GradXMatrixFile;
 	GradXMatrixFile.open("GradXMatrixFile.csv");
 	GradXMatrixFile << grad_x << "\n";
 	GradXMatrixFile.close();
 	/// Gradient Y
 	//Scharr( src_gray, grad_y, ddepth, 0, 1, scale, delta, BORDER_DEFAULT );
-	Sobel(src, grad_y, ddepth, 0, 1, 3, scale, delta, BORDER_DEFAULT);
+	Sobel(detected_edges, grad_y, ddepth, 0, 1, 3, scale, delta, BORDER_DEFAULT);
 	ofstream GradYMatrixFile;
 	GradYMatrixFile.open("GradYMatrixFile.csv");
 	GradYMatrixFile << grad_y << "\n";
@@ -127,6 +135,41 @@ int CalcAngle(Mat src)
 	Mat Mag(src.size(), CV_32FC1);
 	Mat Angle(src.size(), CV_32FC1);
 
+	//cv::Mat angle(image.size(), CV_64F)
+	cout << "grad_x size= " << grad_x.size() << "\n";
+	cout << "grad_x depth= " << grad_y.depth() << "\n";
+	cout << "grad_y size= " << grad_y.size() << "\n";
+	cout << "grad_y depth= " << grad_y.depth() << "\n";
+	cout << "Angle size= " << Angle.size() << "\n";
+	cout << "Angle depth= " << Angle.depth() << "\n";
+	cout << "detected_edges size= " << detected_edges.size() << "\n";
+	cout << "detected_edges depth= " << detected_edges.depth() << "\n";
+	//ofstream GradsAndAtansMatrixFile;
+	//		GradsAndAtansMatrixFile.open("GradsAndAtansMatrixFile.txt");
+	//for (size_t i = 0; i < detected_edges.rows; i++)
+	//{
+	//	//const float* xRow_i = grad_x.ptr<float>(i);
+	//	//const float* yRow_i = grad_y.ptr<float>(i);
+
+	//	for (size_t j = 0; j < detected_edges.cols; j++)
+	//	{	
+
+	//		GradsAndAtansMatrixFile << "grad_y.at<float>(" << i << "," << j << ") = " << grad_y.at<float>(i, j) << "\n";
+	//		GradsAndAtansMatrixFile << "grad_x.at<float>(" << i << "," << j << ") = "<< grad_x.at<float>(i, j) << "\n";
+	//		//Angle[i, j] = atan(yRow_i/ xRow_i);// (double)detected_edges.at<uchar>(i, j);
+	//		//if (grad_x.at<float>(i, j)!=0)
+	//		//{
+	//			Angle.at<float>(i, j) = (180/ 3.14159)*(atan((grad_y.at<float>(i, j))/(grad_x.at<float>(i, j))));
+	//		//}
+	//		
+	//	}
+
+	//}
+	//	GradsAndAtansMatrixFile.close();
+	//for each(i, j) such that contours[i, j] > 0
+	//{
+	//	angle[i, j] = atan2(dy[i, j], dx[i, j])
+	//}
 	//convertScaleAbs(grad_x, abs_grad_x);
 	//convertScaleAbs(grad_y, abs_grad_y);
 	//addWeighted(abs_grad_x, 0.5, abs_grad_y, 0.5, 0, grad);
@@ -149,6 +192,7 @@ int CalcAngle(Mat src)
 
 	double minM, maxM, minA, maxA;
 
+	//phase(grad_x, grad_y, Angle, true);
 	cartToPolar(grad_x, grad_y, Mag, Angle, true);
 
 	//angleHist = getHistogram(Angle, "AngleMatrixHist");
@@ -161,7 +205,7 @@ int CalcAngle(Mat src)
 	//myEdgeDetectorFile << "angleHist= " << angleHist << "\n";
 
 	ofstream AngleMatrixFile;
-	AngleMatrixFile.open("AngleMatrixFile.csv");
+	AngleMatrixFile.open("Calculated AngleMatrixFile.csv");
 	AngleMatrixFile << Angle << "\n";
 	AngleMatrixFile.close();
 
@@ -170,92 +214,88 @@ int CalcAngle(Mat src)
 	GrayScaleMatrixFile << src_gray << "\n";
 	GrayScaleMatrixFile.close();
 
-	ofstream OriginalMatrixFile;
-	OriginalMatrixFile.open("OriginalMatrixFile.csv");
-	OriginalMatrixFile << src << "\n";
-	OriginalMatrixFile.close();
-
 	std::array<std::vector<int>, 72> vvv{ {} };
 	//cout << "gray scale image type= " << type2str(src_gray.type()) << "\n";
-	for (size_t i = 0; i < Angle.rows; i++)
-	{
-		//myHistogramFile << i << "\n";
-		const float* Row_i = Angle.ptr<float>(i);
-		//const float* RowSG_i = src_gray.ptr<float>(i);
-		//float RowSG2_i = src_gray.at<float>(i);
-		//cout << "i" << i << "\n";
+	//for (size_t i = 0; i < Angle.rows; i++)
+	//{
+	//	//myHistogramFile << i << "\n";
+	//	const float* Row_i = Angle.ptr<float>(i);
+	//	//Row_i[j]
+	//	//const float* RowSG_i = src_gray.ptr<float>(i);
+	//	//float RowSG2_i = src_gray.at<float>(i);
+	//	//cout << "i" << i << "\n";
 
-		for (size_t j = 0; j < Angle.cols; j++)
-		{
-			/// Establish the number of bins
-			//int intensity = src_gray.at<int>(j,i);
-			int histSize = 256;
-			myEdgeDetectorFile << "Angle(i,j)= (" << i << ", " << j << ")= " << Row_i[j] << "\n";
-			//myEdgeDetectorFile << "(i,j)= (" << i << ", " << j << ")= " << Row_i[j] << "\n";
-			myEdgeDetectorFile << "Row_i[j]/binSize= (" << Row_i[j] << ", " << binSize << ")= " << int(Row_i[j] / binSize) << "\n";
-			//myEdgeDetectorFile << "src_gray[i=" << i << ",j=" <<  j << "]=" << RowSG_i[j] << "\n";
-			myEdgeDetectorFile << "src_gray[i=" << i << ",j=" << j << "]=" << (double)src_gray.at<uchar>(i, j) << "\n";
+	//	for (size_t j = 0; j < Angle.cols; j++)
+	//	{
+	//		/// Establish the number of bins
+	//		//int intensity = src_gray.at<int>(j,i);
+	//		int histSize = 256;
+	//		myEdgeDetectorFile << "Angle(i,j)= (" << i << ", " << j << ")= " << Row_i[j] << "\n";
+	//		//myEdgeDetectorFile << "(i,j)= (" << i << ", " << j << ")= " << Row_i[j] << "\n";
+	//		myEdgeDetectorFile << "Row_i[j]/binSize= (" << Row_i[j] << ", " << binSize << ")= " << int(Row_i[j] / binSize) << "\n";
+	//		//myEdgeDetectorFile << "src_gray[i=" << i << ",j=" <<  j << "]=" << RowSG_i[j] << "\n";
+	//		myEdgeDetectorFile << "src_gray[i=" << i << ",j=" << j << "]=" << (double)src_gray.at<uchar>(i, j) << "\n";
 
-			//vvv[i].at(j) = RowSG_i[j];
-			//vvv[int(Row_i[j] / binSize)].push_back(RowSG_i[j]);
-			vvv[int(Row_i[j] / binSize)].push_back((double)src_gray.at<uchar>(i, j));
-			//if (int(Row_i[j] / binSize)==53)
-			//{
-			//	myEdgeDetectorFile << "----------------------------------"<<"\n";
-			//	myEdgeDetectorFile << "Row_i[j]/binSize= (" << Row_i[j] << "/ " << binSize << ")= " << int(Row_i[j] / binSize) << "\n";
-			//	//myEdgeDetectorFile << "src_gray[i=" << i << ",j=" << j << "]=" << RowSG_i[j] << "\n";
-			//	myEdgeDetectorFile << "src_gray[i=" << i << ",j=" << j << "]=" << (double)src_gray.at<uchar>(i,j) << "\n";
-			//}
-			myEdgeDetectorFile << "\n";
-			myEdgeDetectorFile << "\n";
-			myEdgeDetectorFile << "\n";
-			//myEdgeDetectorFile << Row_i[j] << "\n";
+	//		//vvv[i].at(j) = RowSG_i[j];
+	//		//vvv[int(Row_i[j] / binSize)].push_back(RowSG_i[j]);
+	//		vvv[int(Row_i[j] / binSize)].push_back((double)src_gray.at<uchar>(i, j));
+	//		//if (int(Row_i[j] / binSize)==53)
+	//		//{
+	//		//	myEdgeDetectorFile << "----------------------------------"<<"\n";
+	//		//	myEdgeDetectorFile << "Row_i[j]/binSize= (" << Row_i[j] << "/ " << binSize << ")= " << int(Row_i[j] / binSize) << "\n";
+	//		//	//myEdgeDetectorFile << "src_gray[i=" << i << ",j=" << j << "]=" << RowSG_i[j] << "\n";
+	//		//	myEdgeDetectorFile << "src_gray[i=" << i << ",j=" << j << "]=" << (double)src_gray.at<uchar>(i,j) << "\n";
+	//		//}
+	//		myEdgeDetectorFile << "\n";
+	//		myEdgeDetectorFile << "\n";
+	//		myEdgeDetectorFile << "\n";
+	//		//myEdgeDetectorFile << Row_i[j] << "\n";
 
-			//if (i==6 && j==274)
-			//{
-			//	cout << "src_gray[i=" << i <<",j=" << j <<"]="<<RowSG_i[j]<<"\n";
-			//}
-			//for (size_t k = 1; k < angleHist.rows; k++)
-			//{
-			//	binID = angleHist[k];
-			//	pixelsBin = PixelsInBin(src_gray, angleHist, i,j,k);
-			//}
-		}
-	}
+	//		//if (i==6 && j==274)
+	//		//{
+	//		//	cout << "src_gray[i=" << i <<",j=" << j <<"]="<<RowSG_i[j]<<"\n";
+	//		//}
+	//		//for (size_t k = 1; k < angleHist.rows; k++)
+	//		//{
+	//		//	binID = angleHist[k];
+	//		//	pixelsBin = PixelsInBin(src_gray, angleHist, i,j,k);
+	//		//}
+	//	}
+	//}
 
-	ofstream ArrayVectorFile;
-	ArrayVectorFile.open("ArrayVectorFile.txt");
-	ArrayVectorFile << "vvv size= " << vvv.size() << "\n";
-	int mySum, myMean, mySD;
-	for (int i = 0; i<vvv.size(); i++)
-	{
-		mySum = 0;
-		//std::ArrayVectorFile << "v.size()= " << vvv.size() << "\n";
-		ArrayVectorFile << "vvv[" << i << "].size()" << vvv[i].size() << "\n";
-		for (int j = 0; j<vvv[i].size(); j++)
-		{
-			//ArrayVectorFile << "vvv size= " << vvv.size() << "\n";
-			//ArrayVectorFile << "vvv[" << i<< "].size()" << vvv[i].size() << "\n";
-			//if (!vvv[i].empty())
-			//{
-			ArrayVectorFile << "i= " << i << ", j= " << j << ", value= " << vvv[i].at(j) << "\n";
-			mySum += vvv[i].at(j);
-			//myMean = mean(vvv[i],NULL);
-			//}
-			//if (i==53)
-			//{
-			//	ArrayVectorFile << "\n";
-			//	ArrayVectorFile << "\n";
-			//	ArrayVectorFile << "\n";
-			//	ArrayVectorFile << "i= " << i << ", j= " << j << ", value= " << vvv[i].at(j) << "\n";
-			//}
-			//std::cout << "2- i= "<<i<<"\n";
-		}
-		ArrayVectorFile << "sum= " << mySum << "\n";
-		//cout << "i= " << i << ", j= " << j << ", value= " << v[i].at(j)<< "\n";
-		//std::cout << "3- i= "<<i<<"\n";
-	}
-	ArrayVectorFile.close();
+	//ofstream ArrayVectorFile;
+	//ArrayVectorFile.open("ArrayVectorFile.txt");
+	//ArrayVectorFile << "vvv size= " << vvv.size() << "\n";
+	//int mySum, myMean, mySD;
+	//for (int i = 0; i<vvv.size(); i++)
+	//{
+	//	mySum = 0;
+	//	//std::ArrayVectorFile << "v.size()= " << vvv.size() << "\n";
+	//	ArrayVectorFile << "vvv[" << i << "].size()" << vvv[i].size() << "\n";
+	//	for (int j = 0; j<vvv[i].size(); j++)
+	//	{
+	//		//ArrayVectorFile << "vvv size= " << vvv.size() << "\n";
+	//		//ArrayVectorFile << "vvv[" << i<< "].size()" << vvv[i].size() << "\n";
+	//		//if (!vvv[i].empty())
+	//		//{
+	//		ArrayVectorFile << "i= " << i << ", j= " << j << ", value= " << vvv[i].at(j) << "\n";
+	//		mySum += vvv[i].at(j);
+	//		//myMean = mean(vvv[i],NULL);
+	//		//}
+	//		//if (i==53)
+	//		//{
+	//		//	ArrayVectorFile << "\n";
+	//		//	ArrayVectorFile << "\n";
+	//		//	ArrayVectorFile << "\n";
+	//		//	ArrayVectorFile << "i= " << i << ", j= " << j << ", value= " << vvv[i].at(j) << "\n";
+	//		//}
+	//		//std::cout << "2- i= "<<i<<"\n";
+	//	}
+	//	ArrayVectorFile << "sum= " << mySum << "\n";
+	//	//cout << "i= " << i << ", j= " << j << ", value= " << v[i].at(j)<< "\n";
+	//	//std::cout << "3- i= "<<i<<"\n";
+	//}
+	//ArrayVectorFile.close();
 	//myEdgeDetectorFile << "vvv= " << vvv << "\n";
 	myEdgeDetectorFile.close();
 
@@ -274,8 +314,14 @@ int main()
 	{
 
 		std::string s = std::to_string(j);
-		image = imread("mask_i_" + s + ".jpg", 1);
+		//image = imread("mask_i_" + s + ".jpg", 1);
+		image = imread("connectedComponentImage01.jpg", 1);
+		imshow("mask_i Original Image", image);
 		//cout << "image file name= " << "mask_i_" + s + ".jpg" << "\n";
+		ofstream Mask_i_OriginalMatrixFile;
+		Mask_i_OriginalMatrixFile.open("Mask_i_OriginalMatrixFile.csv");
+		Mask_i_OriginalMatrixFile << image << "\n";
+		Mask_i_OriginalMatrixFile.close();
 
 		cvtColor(image, gray, CV_BGR2GRAY);
 		Canny(gray, gray, 100, 200, 3);
@@ -292,11 +338,21 @@ int main()
 		}
 
 		//imwrite("contour_" + s + ".jpg", drawing);
+		imshow("mask_i Contour Image", drawing);
+
+		if (j==1)
+		{
+		ofstream ContourMatrixFile;	
+		ContourMatrixFile.open("ContourMatrixFile_" + s + ".csv");
+		ContourMatrixFile << drawing << "\n";
+		ContourMatrixFile.close();
+
 		int temp = CalcAngle(drawing);
-		cout << "Processing: " << "ContourMatrixFile_" + s << "\n";
-		//ContourMatrixFile.open("ContourMatrixFile_" + s + ".csv");
-		//ContourMatrixFile << drawing << "\n";
-		//ContourMatrixFile.close();
+		}
+
+
+		//cout << "Processing: " << "ContourMatrixFile_" + s << "\n";
+
 		//imshow("Result window", drawing);
 		//imshow("Display window", image);
 	}
